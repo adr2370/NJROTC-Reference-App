@@ -1,0 +1,1464 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* NJROTC_AppAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 432}}";
+			sepNavSelRange = "{117, 0}";
+			sepNavVisRange = "{0, 489}";
+		};
+	};
+	1D3623250D0F684500981E51 /* NJROTC_AppAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{826, 446}\";\n            s = 0;\n        },\n                {\n            r = \"{1344, 351}\";\n            s = 0;\n        },\n                {\n            r = \"{1768, 165}\";\n            s = 0;\n        },\n                {\n            r = \"{2002, 205}\";\n            s = 0;\n        },\n                {\n            r = \"{2274, 118}\";\n            s = 0;\n        },\n                {\n            r = \"{2516, 140}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 2760}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {852, 728}}";
+			sepNavSelRange = "{117, 0}";
+			sepNavVisRange = "{255, 876}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* NJROTC App */ = {
+		activeExec = 0;
+		executables = (
+			E80318B812068CF40024A1CB /* NJROTC App */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* NJROTC_AppViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {605, 4082}}";
+			sepNavSelRange = "{5647, 1}";
+			sepNavVisRange = "{0, 0}";
+			sepNavWindowFrame = "{{107, 278}, {400, 352}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{3164, 16}\";\n            s = 0;\n        },\n                {\n            r = \"{3216, 130}\";\n            s = 0;\n        },\n                {\n            r = \"{3381, 244}\";\n            s = 0;\n        },\n                {\n            r = \"{3707, 34}\";\n            s = 0;\n        },\n                {\n            r = \"{3796, 61}\";\n            s = 0;\n        },\n                {\n            r = \"{3861, 137}\";\n            s = 0;\n        },\n                {\n            r = \"{4024, 284}\";\n            s = 0;\n        },\n                {\n            r = \"{4312, 134}\";\n            s = 0;\n        },\n                {\n            r = \"{4472, 277}\";\n            s = 0;\n        },\n                {\n            r = \"{4753, 154}\";\n            s = 0;\n        },\n                {\n            r = \"{4942, 278}\";\n            s = 0;\n        },\n                {\n            r = \"{5224, 151}\";\n            s = 0;\n        },\n                {\n            r = \"{5410, 268}\";\n            s = 0;\n        },\n                {\n            r = \"{5682, 150}\";\n            s = 0;\n        },\n                {\n            r = \"{5862, 640}\";\n            s = 0;\n        },\n                {\n            r = \"{6506, 147}\";\n            s = 0;\n        },\n                {\n            r = \"{6683, 614}\";\n            s = 0;\n        },\n                {\n            r = \"{7301, 141}\";\n            s = 0;\n        },\n                {\n            r = \"{7465, 753}\";\n            s = 0;\n        },\n                {\n            r = \"{8222, 138}\";\n            s = 0;\n        },\n                {\n            r = \"{8383, 742}\";\n            s = 0;\n        },\n                {\n            r = \"{9129, 139}\";\n            s = 0;\n        },\n                {\n            r = \"{9289, 366}\";\n            s = 0;\n        },\n                {\n            r = \"{9659, 136}\";\n            s = 0;\n        },\n                {\n            r = \"{9816, 355}\";\n            s = 0;\n        },\n                {\n            r = \"{10175, 146}\";\n            s = 0;\n        },\n                {\n            r = \"{10348, 347}\";\n            s = 0;\n        },\n                {\n            r = \"{10699, 143}\";\n            s = 0;\n        },\n                {\n            r = \"{10869, 339}\";\n            s = 0;\n        },\n                {\n            r = \"{11212, 138}\";\n            s = 0;\n        },\n                {\n            r = \"{11370, 438}\";\n            s = 0;\n        },\n                {\n            r = \"{11812, 135}\";\n            s = 0;\n        },\n                {\n            r = \"{11967, 425}\";\n            s = 0;\n        },\n                {\n            r = \"{12396, 157}\";\n            s = 0;\n        },\n                {\n            r = \"{12581, 1678}\";\n            s = 0;\n        },\n                {\n            r = \"{14263, 154}\";\n            s = 0;\n        },\n                {\n            r = \"{14445, 767}\";\n            s = 0;\n        },\n                {\n            r = \"{15216, 145}\";\n            s = 0;\n        },\n                {\n            r = \"{15386, 1786}\";\n            s = 0;\n        },\n                {\n            r = \"{17176, 94}\";\n            s = 0;\n        },\n                {\n            r = \"{104419, 336}\";\n            s = 0;\n        },\n                {\n            r = \"{104759, 112}\";\n            s = 0;\n        },\n                {\n            r = \"{104989, 3635}\";\n            s = 0;\n        },\n                {\n            r = \"{108628, 292}\";\n            s = 0;\n        },\n                {\n            r = \"{108956, 151}\";\n            s = 0;\n        },\n                {\n            r = \"{109133, 3885}\";\n            s = 0;\n        },\n                {\n            r = \"{113038, 22}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 113068}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {4457, 28327}}";
+			sepNavSelRange = "{3931, 207}";
+			sepNavVisRange = "{5831, 1622}";
+			sepNavWindowFrame = "{{562, 32}, {718, 746}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv6;
+		activeBuildConfigurationName = Distribution;
+		activeExecutable = E80318B812068CF40024A1CB /* NJROTC App */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* NJROTC App */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* NJROTC App */,
+		);
+		breakpoints = (
+			E8A9C5C012082C070015A98A /* FingerDanceViewController.m:760 */,
+			E8518F0412083961001E0510 /* NJROTC_AppViewController.m:247 */,
+			E8518F0612083966001E0510 /* NJROTC_AppViewController.m:224 */,
+			E8518F08120839D5001E0510 /* NJROTC_AppViewController.m:562 */,
+			E8518F0A12083AAB001E0510 /* NJROTC_AppViewController.m:864 */,
+			E8518F0C12083AE7001E0510 /* NJROTC_AppViewController.m:920 */,
+			E8518FD212086812001E0510 /* NJROTC_AppViewController.m:1918 */,
+			E851900412087574001E0510 /* NJROTC_AppViewController.m:1438 */,
+			E851900D1208764F001E0510 /* NJROTC_AppViewController.m:1432 */,
+			E851901E12087903001E0510 /* NJROTC_AppViewController.m:473 */,
+			E84832A21209507600784139 /* NJROTC_AppViewController.m:1461 */,
+			E84832AF1209512200784139 /* NJROTC_AppViewController.m:1516 */,
+			E8282891121041BB00D920F3 /* NJROTC_AppViewController.m:381 */,
+			E82828931210427D00D920F3 /* NJROTC_AppViewController.m:1204 */,
+			E86144BB1319C67F007F1129 /* NJROTC_AppViewController.m:2429 */,
+			E85E83CB131CA401009F0057 /* NJROTC_AppViewController.m:82 */,
+			E85E842E131CB167009F0057 /* NJROTC_AppViewController.m:157 */,
+			E85E848D131CC819009F0057 /* NJROTC_AppViewController.m:659 */,
+			E83B645E131E223700EF37F7 /* NJROTC_AppViewController.m:72 */,
+			E83B647E131E275400EF37F7 /* NJROTC_AppViewController.m:2390 */,
+		);
+		codeSenseManager = E80318C812068CFD0024A1CB /* Code sense */;
+		executables = (
+			E80318B812068CF40024A1CB /* NJROTC App */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					570,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					427,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					625,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					661,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					634,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 331950461;
+			PBXWorkspaceStateSaveDate = 331950461;
+		};
+		perUserProjectItems = {
+			E817FF8213C92A48009D1CFA /* PBXTextBookmark */ = E817FF8213C92A48009D1CFA /* PBXTextBookmark */;
+			E817FF8313C92A48009D1CFA /* PBXTextBookmark */ = E817FF8313C92A48009D1CFA /* PBXTextBookmark */;
+			E81DE31B133BA6F4009B0CC4 /* PBXBookmark */ = E81DE31B133BA6F4009B0CC4 /* PBXBookmark */;
+			E81DE358133BB019009B0CC4 /* PBXBookmark */ = E81DE358133BB019009B0CC4 /* PBXBookmark */;
+			E81DE359133BB019009B0CC4 /* PBXBookmark */ = E81DE359133BB019009B0CC4 /* PBXBookmark */;
+			E81DE35A133BB019009B0CC4 /* PBXBookmark */ = E81DE35A133BB019009B0CC4 /* PBXBookmark */;
+			E81DE35B133BB019009B0CC4 /* PBXBookmark */ = E81DE35B133BB019009B0CC4 /* PBXBookmark */;
+			E81DE35C133BB019009B0CC4 /* PBXBookmark */ = E81DE35C133BB019009B0CC4 /* PBXBookmark */;
+			E81DE35D133BB019009B0CC4 /* PlistBookmark */ = E81DE35D133BB019009B0CC4 /* PlistBookmark */;
+			E828287412103AC900D920F3 /* PBXBookmark */ = E828287412103AC900D920F3 /* PBXBookmark */;
+			E828287C12103AC900D920F3 /* PBXBookmark */ = E828287C12103AC900D920F3 /* PBXBookmark */;
+			E828287E12103AC900D920F3 /* PBXBookmark */ = E828287E12103AC900D920F3 /* PBXBookmark */;
+			E828289B1210439500D920F3 /* PBXBookmark */ = E828289B1210439500D920F3 /* PBXBookmark */;
+			E828289C1210439500D920F3 /* PBXBookmark */ = E828289C1210439500D920F3 /* PBXBookmark */;
+			E828289E1210439500D920F3 /* PBXBookmark */ = E828289E1210439500D920F3 /* PBXBookmark */;
+			E82828E11210536600D920F3 /* PBXTextBookmark */ = E82828E11210536600D920F3 /* PBXTextBookmark */;
+			E83B6413131E11C100EF37F7 /* PBXBookmark */ = E83B6413131E11C100EF37F7 /* PBXBookmark */;
+			E8419F00131D61D4008CD09E /* PBXBookmark */ = E8419F00131D61D4008CD09E /* PBXBookmark */;
+			E8419F01131D61D4008CD09E /* PBXBookmark */ = E8419F01131D61D4008CD09E /* PBXBookmark */;
+			E8419F02131D61D4008CD09E /* PBXBookmark */ = E8419F02131D61D4008CD09E /* PBXBookmark */;
+			E8419F03131D61D4008CD09E /* PBXBookmark */ = E8419F03131D61D4008CD09E /* PBXBookmark */;
+			E8419F04131D61D4008CD09E /* PBXBookmark */ = E8419F04131D61D4008CD09E /* PBXBookmark */;
+			E8419F07131D61D4008CD09E /* PBXBookmark */ = E8419F07131D61D4008CD09E /* PBXBookmark */;
+			E846E26E13280E290007C218 /* PBXBookmark */ = E846E26E13280E290007C218 /* PBXBookmark */;
+			E84C682412115B2C004E92BC /* PBXBookmark */ = E84C682412115B2C004E92BC /* PBXBookmark */;
+			E85E83EB131CA97C009F0057 /* PBXBookmark */ = E85E83EB131CA97C009F0057 /* PBXBookmark */;
+			E85E847F131CC2E7009F0057 /* PBXBookmark */ = E85E847F131CC2E7009F0057 /* PBXBookmark */;
+			E85E848F131CC865009F0057 /* PBXBookmark */ = E85E848F131CC865009F0057 /* PBXBookmark */;
+			E85E8490131CC865009F0057 /* PBXBookmark */ = E85E8490131CC865009F0057 /* PBXBookmark */;
+			E85E8491131CC865009F0057 /* PBXBookmark */ = E85E8491131CC865009F0057 /* PBXBookmark */;
+			E85E8493131CC865009F0057 /* PBXBookmark */ = E85E8493131CC865009F0057 /* PBXBookmark */;
+			E85E8494131CC865009F0057 /* PBXBookmark */ = E85E8494131CC865009F0057 /* PBXBookmark */;
+			E85E8495131CC865009F0057 /* PBXBookmark */ = E85E8495131CC865009F0057 /* PBXBookmark */;
+			E85E8496131CC865009F0057 /* PBXBookmark */ = E85E8496131CC865009F0057 /* PBXBookmark */;
+			E85E8497131CC865009F0057 /* PBXBookmark */ = E85E8497131CC865009F0057 /* PBXBookmark */;
+			E85E8498131CC865009F0057 /* PBXBookmark */ = E85E8498131CC865009F0057 /* PBXBookmark */;
+			E85E8499131CC865009F0057 /* PBXBookmark */ = E85E8499131CC865009F0057 /* PBXBookmark */;
+			E85E849A131CC865009F0057 /* PBXBookmark */ = E85E849A131CC865009F0057 /* PBXBookmark */;
+			E85E849B131CC865009F0057 /* PBXBookmark */ = E85E849B131CC865009F0057 /* PBXBookmark */;
+			E85E849C131CC865009F0057 /* PBXBookmark */ = E85E849C131CC865009F0057 /* PBXBookmark */;
+			E85E849D131CC865009F0057 /* PBXBookmark */ = E85E849D131CC865009F0057 /* PBXBookmark */;
+			E85E849E131CC865009F0057 /* PBXBookmark */ = E85E849E131CC865009F0057 /* PBXBookmark */;
+			E85E849F131CC865009F0057 /* PBXBookmark */ = E85E849F131CC865009F0057 /* PBXBookmark */;
+			E85E84A0131CC865009F0057 /* PBXBookmark */ = E85E84A0131CC865009F0057 /* PBXBookmark */;
+			E85E84A1131CC865009F0057 /* PBXBookmark */ = E85E84A1131CC865009F0057 /* PBXBookmark */;
+			E85E84A2131CC865009F0057 /* PBXBookmark */ = E85E84A2131CC865009F0057 /* PBXBookmark */;
+			E85E84A3131CC865009F0057 /* PBXBookmark */ = E85E84A3131CC865009F0057 /* PBXBookmark */;
+			E85E84A4131CC865009F0057 /* PBXBookmark */ = E85E84A4131CC865009F0057 /* PBXBookmark */;
+			E85E84A5131CC865009F0057 /* PBXBookmark */ = E85E84A5131CC865009F0057 /* PBXBookmark */;
+			E85E84A6131CC865009F0057 /* PBXBookmark */ = E85E84A6131CC865009F0057 /* PBXBookmark */;
+			E85E84A7131CC865009F0057 /* PBXBookmark */ = E85E84A7131CC865009F0057 /* PBXBookmark */;
+			E85E84A8131CC865009F0057 /* PBXBookmark */ = E85E84A8131CC865009F0057 /* PBXBookmark */;
+			E85E84AA131CC865009F0057 /* PBXBookmark */ = E85E84AA131CC865009F0057 /* PBXBookmark */;
+			E85E84AB131CC865009F0057 /* PBXBookmark */ = E85E84AB131CC865009F0057 /* PBXBookmark */;
+			E85E84AC131CC865009F0057 /* PBXBookmark */ = E85E84AC131CC865009F0057 /* PBXBookmark */;
+			E85E84AD131CC865009F0057 /* PBXBookmark */ = E85E84AD131CC865009F0057 /* PBXBookmark */;
+			E85E84AE131CC865009F0057 /* PBXBookmark */ = E85E84AE131CC865009F0057 /* PBXBookmark */;
+			E85E84AF131CC865009F0057 /* PBXBookmark */ = E85E84AF131CC865009F0057 /* PBXBookmark */;
+			E85E84B0131CC865009F0057 /* PBXBookmark */ = E85E84B0131CC865009F0057 /* PBXBookmark */;
+			E85E84B1131CC865009F0057 /* PBXBookmark */ = E85E84B1131CC865009F0057 /* PBXBookmark */;
+			E85E84B3131CC865009F0057 /* PBXBookmark */ = E85E84B3131CC865009F0057 /* PBXBookmark */;
+			E85E84B4131CC865009F0057 /* PBXBookmark */ = E85E84B4131CC865009F0057 /* PBXBookmark */;
+			E85E84B5131CC865009F0057 /* PBXBookmark */ = E85E84B5131CC865009F0057 /* PBXBookmark */;
+			E85E84B6131CC865009F0057 /* PBXBookmark */ = E85E84B6131CC865009F0057 /* PBXBookmark */;
+			E85E84B7131CC865009F0057 /* PBXBookmark */ = E85E84B7131CC865009F0057 /* PBXBookmark */;
+			E85E84B8131CC865009F0057 /* PBXBookmark */ = E85E84B8131CC865009F0057 /* PBXBookmark */;
+			E85E84B9131CC865009F0057 /* PBXBookmark */ = E85E84B9131CC865009F0057 /* PBXBookmark */;
+			E85E84BA131CC865009F0057 /* PBXBookmark */ = E85E84BA131CC865009F0057 /* PBXBookmark */;
+			E85E84BB131CC865009F0057 /* PBXBookmark */ = E85E84BB131CC865009F0057 /* PBXBookmark */;
+			E85E84BC131CC865009F0057 /* PBXBookmark */ = E85E84BC131CC865009F0057 /* PBXBookmark */;
+			E85E84BD131CC865009F0057 /* PBXBookmark */ = E85E84BD131CC865009F0057 /* PBXBookmark */;
+			E85E84BE131CC865009F0057 /* PBXBookmark */ = E85E84BE131CC865009F0057 /* PBXBookmark */;
+			E85E84F6131CD15D009F0057 /* PBXTextBookmark */ = E85E84F6131CD15D009F0057 /* PBXTextBookmark */;
+			E884DDEA13B31BDF00167994 /* PBXTextBookmark */ = E884DDEA13B31BDF00167994 /* PBXTextBookmark */;
+			E88A2E4312238FB400B3FD2F /* PBXTextBookmark */ = E88A2E4312238FB400B3FD2F /* PBXTextBookmark */;
+			E88A2E4412238FB400B3FD2F /* PBXTextBookmark */ = E88A2E4412238FB400B3FD2F /* PBXTextBookmark */;
+			E8A0B78E12B58FA500B8F015 /* PBXBookmark */ = E8A0B78E12B58FA500B8F015 /* PBXBookmark */;
+			E8A0B78F12B58FA500B8F015 /* PBXBookmark */ = E8A0B78F12B58FA500B8F015 /* PBXBookmark */;
+			E8A0B79012B58FA500B8F015 /* PBXBookmark */ = E8A0B79012B58FA500B8F015 /* PBXBookmark */;
+			E8A0B79112B58FA500B8F015 /* PBXBookmark */ = E8A0B79112B58FA500B8F015 /* PBXBookmark */;
+			E8A0B79212B58FA500B8F015 /* PBXBookmark */ = E8A0B79212B58FA500B8F015 /* PBXBookmark */;
+			E8A0B79312B58FA500B8F015 /* PBXBookmark */ = E8A0B79312B58FA500B8F015 /* PBXBookmark */;
+			E8A0B79412B58FA500B8F015 /* PBXBookmark */ = E8A0B79412B58FA500B8F015 /* PBXBookmark */;
+			E8A0B79512B58FA500B8F015 /* PBXBookmark */ = E8A0B79512B58FA500B8F015 /* PBXBookmark */;
+			E8A0B79612B58FA500B8F015 /* PBXBookmark */ = E8A0B79612B58FA500B8F015 /* PBXBookmark */;
+			E8A0B79712B58FA500B8F015 /* PBXBookmark */ = E8A0B79712B58FA500B8F015 /* PBXBookmark */;
+			E8A0B79812B58FA500B8F015 /* PBXBookmark */ = E8A0B79812B58FA500B8F015 /* PBXBookmark */;
+			E8A0B79912B58FA500B8F015 /* PBXBookmark */ = E8A0B79912B58FA500B8F015 /* PBXBookmark */;
+			E8A0B79A12B58FA500B8F015 /* PBXBookmark */ = E8A0B79A12B58FA500B8F015 /* PBXBookmark */;
+			E8A0B79B12B58FA500B8F015 /* PBXBookmark */ = E8A0B79B12B58FA500B8F015 /* PBXBookmark */;
+			E8A0B7B112B5936500B8F015 /* PBXBookmark */ = E8A0B7B112B5936500B8F015 /* PBXBookmark */;
+			E8AC45A01331D3D300825F8C /* PBXBookmark */ = E8AC45A01331D3D300825F8C /* PBXBookmark */;
+			E8AC45A11331D3D300825F8C /* PBXBookmark */ = E8AC45A11331D3D300825F8C /* PBXBookmark */;
+			E8AC45A21331D3D300825F8C /* PBXBookmark */ = E8AC45A21331D3D300825F8C /* PBXBookmark */;
+			E8AC45A31331D3D300825F8C /* PBXBookmark */ = E8AC45A31331D3D300825F8C /* PBXBookmark */;
+			E8AC45A41331D3D300825F8C /* PBXBookmark */ = E8AC45A41331D3D300825F8C /* PBXBookmark */;
+			E8AC45A51331D3D300825F8C /* PBXBookmark */ = E8AC45A51331D3D300825F8C /* PBXBookmark */;
+			E8AC45A61331D3D300825F8C /* PBXBookmark */ = E8AC45A61331D3D300825F8C /* PBXBookmark */;
+			E8AC45A71331D3D300825F8C /* PBXBookmark */ = E8AC45A71331D3D300825F8C /* PBXBookmark */;
+			E8C4EE93120D3524009BE068 /* PBXBookmark */ = E8C4EE93120D3524009BE068 /* PBXBookmark */;
+			E8C4EE95120D3525009BE068 /* PBXBookmark */ = E8C4EE95120D3525009BE068 /* PBXBookmark */;
+			E8C63E3613B909B90018FB79 /* PBXTextBookmark */ = E8C63E3613B909B90018FB79 /* PBXTextBookmark */;
+			E8C63E3713B909B90018FB79 /* PBXTextBookmark */ = E8C63E3713B909B90018FB79 /* PBXTextBookmark */;
+			E8D706D7120C1975007E7921 /* PBXBookmark */ = E8D706D7120C1975007E7921 /* PBXBookmark */;
+			E8D706DB120C1975007E7921 /* PBXBookmark */ = E8D706DB120C1975007E7921 /* PBXBookmark */;
+			E8D706E6120C1975007E7921 /* PBXBookmark */ = E8D706E6120C1975007E7921 /* PBXBookmark */;
+			E8D706E7120C1975007E7921 /* PBXBookmark */ = E8D706E7120C1975007E7921 /* PBXBookmark */;
+			E8D70758120C8E7C007E7921 /* PBXBookmark */ = E8D70758120C8E7C007E7921 /* PBXBookmark */;
+			E8D70759120C8E7C007E7921 /* PBXBookmark */ = E8D70759120C8E7C007E7921 /* PBXBookmark */;
+			E8D7075A120C8E7C007E7921 /* PBXBookmark */ = E8D7075A120C8E7C007E7921 /* PBXBookmark */;
+			E8D7075B120C8E7C007E7921 /* PBXBookmark */ = E8D7075B120C8E7C007E7921 /* PBXBookmark */;
+			E8D7B4C21320105A00DCA43A /* PBXTextBookmark */ = E8D7B4C21320105A00DCA43A /* PBXTextBookmark */;
+			E8D7B4C31320105A00DCA43A /* PBXTextBookmark */ = E8D7B4C31320105A00DCA43A /* PBXTextBookmark */;
+		};
+		sourceControlManager = E80318C712068CFD0024A1CB /* Source Control */;
+		userBookmarkGroup = E85699D81207AEBA00E88772 /* PBXBookmarkGroup */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 779}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 367}";
+		};
+	};
+	E80318B812068CF40024A1CB /* NJROTC App */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "NJROTC App";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E80318C712068CFD0024A1CB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E80318C812068CFD0024A1CB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E817FF8213C92A48009D1CFA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* NJROTC_AppViewController.h */;
+		name = "NJROTC_AppViewController.h: 159";
+		rLen = 1;
+		rLoc = 5647;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	E817FF8313C92A48009D1CFA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		name = "NJROTC_AppViewController.m: 560";
+		rLen = 207;
+		rLoc = 17272;
+		rType = 0;
+		vrLen = 1622;
+		vrLoc = 19172;
+	};
+	E81DE31B133BA6F4009B0CC4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71012E9EBB5005AB0EA /* Aptitude Info.png */;
+	};
+	E81DE358133BB019009B0CC4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8AC45911331D29D00825F8C /* Background.png */;
+	};
+	E81DE359133BB019009B0CC4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72312E9EBB5005AB0EA /* MaleGrooming Info.png */;
+	};
+	E81DE35A133BB019009B0CC4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E81DE32E133BACB4009B0CC4 /* ImportantDates Info.png */;
+	};
+	E81DE35B133BB019009B0CC4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E81DE330133BACD3009B0CC4 /* DevicePlacement Info.png */;
+	};
+	E81DE35C133BB019009B0CC4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E81DE332133BACDD009B0CC4 /* TypesOfCommands Info.png */;
+	};
+	E81DE35D133BB019009B0CC4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = E8A551CC12097E970062FE1C /* NJROTC_App-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_App-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	E821F71312E9EBB5005AB0EA /* Chairman Info.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 31}, {905, 747}}";
+		};
+	};
+	E821F72A12E9EBB5005AB0EA /* NavalScienceIIIOutstandingCadet Info.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 32}, {905, 746}}";
+		};
+	};
+	E821F72D12E9EBB5005AB0EA /* NavalScienceIVOutstandingCadet Info.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 32}, {905, 746}}";
+		};
+	};
+	E821F73912E9EBB5005AB0EA /* President Info.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{82, 31}, {905, 747}}";
+		};
+	};
+	E828285A1210373F00D920F3 /* ImportantDates Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "ImportantDates Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/ImportantDates Info.png";
+		sourceTree = "<absolute>";
+	};
+	E828285C1210375400D920F3 /* GeneralOrders Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "GeneralOrders Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/GeneralOrders Info.png";
+		sourceTree = "<absolute>";
+	};
+	E828285E1210375C00D920F3 /* PhoneticAlphabet Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "PhoneticAlphabet Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/PhoneticAlphabet Info.png";
+		sourceTree = "<absolute>";
+	};
+	E82828601210376200D920F3 /* NavyTerminology Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "NavyTerminology Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/NavyTerminology Info.png";
+		sourceTree = "<absolute>";
+	};
+	E82828621210376700D920F3 /* MiscKnowledge Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "MiscKnowledge Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/MiscKnowledge Info.png";
+		sourceTree = "<absolute>";
+	};
+	E82828641210376B00D920F3 /* TypesOfCommands Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "TypesOfCommands Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/TypesOfCommands Info.png";
+		sourceTree = "<absolute>";
+	};
+	E82828661210377000D920F3 /* Drill Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "Drill Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/Drill Info.png";
+		sourceTree = "<absolute>";
+	};
+	E828286A121037E200D920F3 /* AwardsAndDecorations Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "AwardsAndDecorations Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/AwardsAndDecorations Info.png";
+		sourceTree = "<absolute>";
+	};
+	E828286C121037E800D920F3 /* UniformComposition Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "UniformComposition Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/UniformComposition Info.png";
+		sourceTree = "<absolute>";
+	};
+	E828286E121037ED00D920F3 /* FemaleGrooming Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "FemaleGrooming Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/FemaleGrooming Info.png";
+		sourceTree = "<absolute>";
+	};
+	E828287412103AC900D920F3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E828285A1210373F00D920F3 /* ImportantDates Info.png */;
+	};
+	E828287C12103AC900D920F3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E828286A121037E200D920F3 /* AwardsAndDecorations Info.png */;
+	};
+	E828287E12103AC900D920F3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E828286E121037ED00D920F3 /* FemaleGrooming Info.png */;
+	};
+	E8282891121041BB00D920F3 /* NJROTC_AppViewController.m:381 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-hideMisc";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 381;
+		location = "NJROTC App";
+		modificationTime = 320653339.774124;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E82828931210427D00D920F3 /* NJROTC_AppViewController.m:1204 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1204;
+		location = "NJROTC App";
+		modificationTime = 320653339.800616;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E828289B1210439500D920F3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E828285C1210375400D920F3 /* GeneralOrders Info.png */;
+	};
+	E828289C1210439500D920F3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E82828661210377000D920F3 /* Drill Info.png */;
+	};
+	E828289E1210439500D920F3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E82828601210376200D920F3 /* NavyTerminology Info.png */;
+	};
+	E82828E11210536600D920F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 0;
+	};
+	E83B6413131E11C100EF37F7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72412E9EBB5005AB0EA /* MarineCorpsRanks Info.png */;
+	};
+	E83B645E131E223700EF37F7 /* NJROTC_AppViewController.m:72 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-AD::";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 72;
+		modificationTime = 320741943.039865;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	E83B647E131E275400EF37F7 /* NJROTC_AppViewController.m:2390 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2390;
+		modificationTime = 320743252.158042;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	E8419F00131D61D4008CD09E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71612E9EBB5005AB0EA /* Commandant Info.png */;
+	};
+	E8419F01131D61D4008CD09E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72D12E9EBB5005AB0EA /* NavalScienceIVOutstandingCadet Info.png */;
+	};
+	E8419F02131D61D4008CD09E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72B12E9EBB5005AB0EA /* NavalScienceIIOutstandingCadet Info.png */;
+	};
+	E8419F03131D61D4008CD09E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72912E9EBB5005AB0EA /* MiscKnowledge Info.png */;
+	};
+	E8419F04131D61D4008CD09E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72A12E9EBB5005AB0EA /* NavalScienceIIIOutstandingCadet Info.png */;
+	};
+	E8419F07131D61D4008CD09E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72C12E9EBB5005AB0EA /* NavalScienceIOutstandingCadet Info.png */;
+	};
+	E846E26E13280E290007C218 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E86D2A97131F7A0D006F0BF5 /* Credits.png */;
+	};
+	E84832A21209507600784139 /* NJROTC_AppViewController.m:1461 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1461;
+		location = "NJROTC App";
+		modificationTime = 320653339.659495;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E84832AF1209512200784139 /* NJROTC_AppViewController.m:1516 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1516;
+		location = "NJROTC App";
+		modificationTime = 320653339.7207389;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E84C682412115B2C004E92BC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A551BD12097E970062FE1C /* Background.png */;
+	};
+	E8518F0412083961001E0510 /* NJROTC_AppViewController.m:247 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-hideChainofCommand";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 247;
+		location = "NJROTC App";
+		modificationTime = 320653338.854704;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E8518F0612083966001E0510 /* NJROTC_AppViewController.m:224 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 224;
+		modificationTime = 320653338.031514;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	E8518F08120839D5001E0510 /* NJROTC_AppViewController.m:562 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 562;
+		location = "NJROTC App";
+		modificationTime = 320653383.5560861;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E8518F0A12083AAB001E0510 /* NJROTC_AppViewController.m:864 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 864;
+		location = "NJROTC App";
+		modificationTime = 320653338.912746;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E8518F0C12083AE7001E0510 /* NJROTC_AppViewController.m:920 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 920;
+		location = "NJROTC App";
+		modificationTime = 320653339.204221;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E8518F4F12083EE5001E0510 /* NJROTC Rates.xib */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = file.xib;
+		name = "NJROTC Rates.xib";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC Rates.xib";
+		sourceTree = "<absolute>";
+	};
+	E8518F5112083EEB001E0510 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8518F4F12083EE5001E0510 /* NJROTC Rates.xib */;
+	};
+	E8518FD212086812001E0510 /* NJROTC_AppViewController.m:1918 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1918;
+		location = "NJROTC App";
+		modificationTime = 320653339.236166;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E851900412087574001E0510 /* NJROTC_AppViewController.m:1438 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1438;
+		location = "NJROTC App";
+		modificationTime = 320653339.320471;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E851900D1208764F001E0510 /* NJROTC_AppViewController.m:1432 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1432;
+		location = "NJROTC App";
+		modificationTime = 320653339.393471;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E851901E12087903001E0510 /* NJROTC_AppViewController.m:473 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-showRibbonsMaker";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 473;
+		location = "NJROTC App";
+		modificationTime = 320653339.63251;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E85699D81207AEBA00E88772 /* PBXBookmarkGroup */ = {
+		isa = PBXBookmarkGroup;
+		children = (
+			E8569A631207C73F00E88772 /* PBXBookmark */,
+			E8518F5112083EEB001E0510 /* PBXBookmark */,
+		);
+		name = Root;
+	};
+	E8569A601207C71300E88772 /* Background.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Background.png;
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/Background.png";
+		sourceTree = "<absolute>";
+	};
+	E8569A631207C73F00E88772 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8569A601207C71300E88772 /* Background.png */;
+	};
+	E85E83CB131CA401009F0057 /* NJROTC_AppViewController.m:82 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-viewForZoomingInScrollView:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 82;
+		location = "NJROTC App";
+		modificationTime = 320653339.992645;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E85E83EB131CA97C009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8D706FA120C1DFE007E7921 /* Main.png */;
+	};
+	E85E842E131CB167009F0057 /* NJROTC_AppViewController.m:157 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-hideChainofCommand";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 157;
+		location = "NJROTC App";
+		modificationTime = 320653340.115985;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E85E847F131CC2E7009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A551F912097F6C0062FE1C /* Thing.png */;
+	};
+	E85E848D131CC819009F0057 /* NJROTC_AppViewController.m:659 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 659;
+		location = "NJROTC App";
+		modificationTime = 320653340.309464;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E85E848F131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F74412E9EBB5005AB0EA /* VicePres Info.png */;
+	};
+	E85E8490131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F74312E9EBB5005AB0EA /* UnitService Info.png */;
+	};
+	E85E8491131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F74212E9EBB5005AB0EA /* UniformComposition Info.png */;
+	};
+	E85E8493131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F74012E9EBB5005AB0EA /* SergeantMajor Info.png */;
+	};
+	E85E8494131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F73F12E9EBB5005AB0EA /* SecState Info.png */;
+	};
+	E85E8495131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F73E12E9EBB5005AB0EA /* SecNavy Info.png */;
+	};
+	E85E8496131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F73D12E9EBB5005AB0EA /* SecDef Info.png */;
+	};
+	E85E8497131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F73C12E9EBB5005AB0EA /* SeaCruise Info.png */;
+	};
+	E85E8498131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F73B12E9EBB5005AB0EA /* RifleTeam Info.png */;
+	};
+	E85E8499131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F73A12E9EBB5005AB0EA /* Recruiting Info.png */;
+	};
+	E85E849A131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F73912E9EBB5005AB0EA /* President Info.png */;
+	};
+	E85E849B131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F73812E9EBB5005AB0EA /* PhysicalFitness Info.png */;
+	};
+	E85E849C131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F73612E9EBB5005AB0EA /* Participation Info.png */;
+	};
+	E85E849D131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F73512E9EBB5005AB0EA /* Orienteering Info.png */;
+	};
+	E85E849E131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F73412E9EBB5005AB0EA /* NSTC Info.png */;
+	};
+	E85E849F131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F73312E9EBB5005AB0EA /* NJROTCRates Info.png */;
+	};
+	E85E84A0131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F73112E9EBB5005AB0EA /* NETC Info.png */;
+	};
+	E85E84A1131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F73012E9EBB5005AB0EA /* NavyTerminology Info.png */;
+	};
+	E85E84A2131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72E12E9EBB5005AB0EA /* NavyRanks Info.png */;
+	};
+	E85E84A3131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72D12E9EBB5005AB0EA /* NavalScienceIVOutstandingCadet Info.png */;
+	};
+	E85E84A4131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72A12E9EBB5005AB0EA /* NavalScienceIIIOutstandingCadet Info.png */;
+	};
+	E85E84A5131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72712E9EBB5005AB0EA /* MeritoriousAchievement Info.png */;
+	};
+	E85E84A6131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72612E9EBB5005AB0EA /* MCPON Info.png */;
+	};
+	E85E84A7131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72412E9EBB5005AB0EA /* MarineCorpsRanks Info.png */;
+	};
+	E85E84A8131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72312E9EBB5005AB0EA /* MaleGrooming Info.png */;
+	};
+	E85E84AA131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72112E9EBB5005AB0EA /* HonorCadet Info.png */;
+	};
+	E85E84AB131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72012E9EBB5005AB0EA /* GeneralOrders Info.png */;
+	};
+	E85E84AC131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71F12E9EBB5005AB0EA /* FemaleGrooming Info.png */;
+	};
+	E85E84AD131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71E12E9EBB5005AB0EA /* ExemplaryPersonalAppereance Info.png */;
+	};
+	E85E84AE131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71D12E9EBB5005AB0EA /* ExemplaryConduct Info.png */;
+	};
+	E85E84AF131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71B12E9EBB5005AB0EA /* DistinguishedUnit Info.png */;
+	};
+	E85E84B0131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71A12E9EBB5005AB0EA /* DistinguishedCadet Info.png */;
+	};
+	E85E84B1131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71912E9EBB5005AB0EA /* Director Info.png */;
+	};
+	E85E84B3131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71712E9EBB5005AB0EA /* CommunityService Info.png */;
+	};
+	E85E84B4131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71612E9EBB5005AB0EA /* Commandant Info.png */;
+	};
+	E85E84B5131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71512E9EBB5005AB0EA /* ColorGuard Info.png */;
+	};
+	E85E84B6131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71312E9EBB5005AB0EA /* Chairman Info.png */;
+	};
+	E85E84B7131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71212E9EBB5005AB0EA /* CadetAchievement Info.png */;
+	};
+	E85E84B8131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F70F12E9EBB5005AB0EA /* AcademicAward Info.png */;
+	};
+	E85E84B9131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71012E9EBB5005AB0EA /* Aptitude Info.png */;
+	};
+	E85E84BA131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71112E9EBB5005AB0EA /* AwardsAndDecorations Info.png */;
+	};
+	E85E84BB131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72812E9EBB5005AB0EA /* MiniBootCamp Info.png */;
+	};
+	E85E84BC131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72912E9EBB5005AB0EA /* MiscKnowledge Info.png */;
+	};
+	E85E84BD131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F72512E9EBB5005AB0EA /* MarineCorpsRates Info.png */;
+	};
+	E85E84BE131CC865009F0057 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E821F71C12E9EBB5005AB0EA /* DrillTeam Info.png */;
+	};
+	E85E84F6131CD15D009F0057 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		name = "NJROTC_AppViewController.m: 2434";
+		rLen = 0;
+		rLoc = 108176;
+		rType = 0;
+		vrLen = 5843;
+		vrLoc = 106375;
+	};
+	E86144BB1319C67F007F1129 /* NJROTC_AppViewController.m:2429 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2429;
+		modificationTime = 320653338.03253;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	E884DDEA13B31BDF00167994 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* NJROTC_AppViewController.h */;
+		name = "NJROTC_AppViewController.h: 6";
+		rLen = 0;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 965;
+		vrLoc = 0;
+	};
+	E88A2E4312238FB400B3FD2F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NJROTC_AppAppDelegate.h */;
+		name = "NJROTC_AppAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 269;
+		rType = 0;
+		vrLen = 500;
+		vrLoc = 0;
+	};
+	E88A2E4412238FB400B3FD2F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NJROTC_AppAppDelegate.m */;
+		name = "NJROTC_AppAppDelegate.m: 2";
+		rLen = 0;
+		rLoc = 19;
+		rType = 0;
+		vrLen = 2289;
+		vrLoc = 482;
+	};
+	E8A0B78E12B58FA500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E828286C121037E800D920F3 /* UniformComposition Info.png */;
+	};
+	E8A0B78F12B58FA500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E82828641210376B00D920F3 /* TypesOfCommands Info.png */;
+	};
+	E8A0B79012B58FA500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E828285E1210375C00D920F3 /* PhoneticAlphabet Info.png */;
+	};
+	E8A0B79112B58FA500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E82828621210376700D920F3 /* MiscKnowledge Info.png */;
+	};
+	E8A0B79212B58FA500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5518F12097E880062FE1C /* Chairman Info.png */;
+	};
+	E8A0B79312B58FA500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5518B12097E880062FE1C /* SergeantMajor Info.png */;
+	};
+	E8A0B79412B58FA500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5518912097E880062FE1C /* NSTC Info.png */;
+	};
+	E8A0B79512B58FA500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5518812097E880062FE1C /* Director Info.png */;
+	};
+	E8A0B79612B58FA500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5511012097E7B0062FE1C /* NJROTCRates Info.png */;
+	};
+	E8A0B79712B58FA500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5510F12097E7B0062FE1C /* NJROTCRanks Info.png */;
+	};
+	E8A0B79812B58FA500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5518A12097E880062FE1C /* NETC Info.png */;
+	};
+	E8A0B79912B58FA500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5518C12097E880062FE1C /* MCPON Info.png */;
+	};
+	E8A0B79A12B58FA500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5518E12097E880062FE1C /* CNO Info.png */;
+	};
+	E8A0B79B12B58FA500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5518D12097E880062FE1C /* Commandant Info.png */;
+	};
+	E8A0B7B112B5936500B8F015 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5519412097E880062FE1C /* President Info.png */;
+	};
+	E8A5510B12097E7B0062FE1C /* MarineCorpsRanks Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "MarineCorpsRanks Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/MarineCorpsRanks Info.png";
+		sourceTree = "<absolute>";
+	};
+	E8A5510F12097E7B0062FE1C /* NJROTCRanks Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "NJROTCRanks Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/NJROTCRanks Info.png";
+		sourceTree = "<absolute>";
+	};
+	E8A5511012097E7B0062FE1C /* NJROTCRates Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "NJROTCRates Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/NJROTCRates Info.png";
+		sourceTree = "<absolute>";
+	};
+	E8A5511712097E7B0062FE1C /* SeaCruise Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "SeaCruise Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/SeaCruise Info.png";
+		sourceTree = "<absolute>";
+	};
+	E8A5518812097E880062FE1C /* Director Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "Director Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/Director Info.png";
+		sourceTree = "<absolute>";
+	};
+	E8A5518912097E880062FE1C /* NSTC Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "NSTC Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/NSTC Info.png";
+		sourceTree = "<absolute>";
+	};
+	E8A5518A12097E880062FE1C /* NETC Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "NETC Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/NETC Info.png";
+		sourceTree = "<absolute>";
+	};
+	E8A5518B12097E880062FE1C /* SergeantMajor Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "SergeantMajor Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/SergeantMajor Info.png";
+		sourceTree = "<absolute>";
+	};
+	E8A5518C12097E880062FE1C /* MCPON Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "MCPON Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/MCPON Info.png";
+		sourceTree = "<absolute>";
+	};
+	E8A5518D12097E880062FE1C /* Commandant Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "Commandant Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/Commandant Info.png";
+		sourceTree = "<absolute>";
+	};
+	E8A5518E12097E880062FE1C /* CNO Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "CNO Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/CNO Info.png";
+		sourceTree = "<absolute>";
+	};
+	E8A5518F12097E880062FE1C /* Chairman Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "Chairman Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/Chairman Info.png";
+		sourceTree = "<absolute>";
+	};
+	E8A5519412097E880062FE1C /* President Info.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "President Info.png";
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/President Info.png";
+		sourceTree = "<absolute>";
+	};
+	E8A551BC12097E970062FE1C /* Default.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Default.png;
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/Default.png";
+		sourceTree = "<absolute>";
+	};
+	E8A551BD12097E970062FE1C /* Background.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Background.png;
+		path = "/Users/alexdr/Programming/IPhone/NJROTC App/Background.png";
+		sourceTree = "<absolute>";
+	};
+	E8A551CC12097E970062FE1C /* NJROTC_App-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{8, 32}, {730, 746}}";
+		};
+	};
+	E8A9C5C012082C070015A98A /* FingerDanceViewController.m:760 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E8A9C5C112082C070015A98A /* FingerDanceViewController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 760;
+		modificationTime = 320653446.135544;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	E8A9C5C112082C070015A98A /* FingerDanceViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = FingerDanceViewController.m;
+		path = "/Users/alexdr/Programming/IPhone/FingerDance 2/Classes/FingerDanceViewController.m";
+		sourceTree = "<absolute>";
+	};
+	E8AC45A01331D3D300825F8C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A551F912097F6C0062FE1C /* Thing.png */;
+	};
+	E8AC45A11331D3D300825F8C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E863FD08120AD82000236F06 /* loading.png */;
+	};
+	E8AC45A21331D3D300825F8C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E863FD07120AD82000236F06 /* Rifle.png */;
+	};
+	E8AC45A31331D3D300825F8C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8D706C5120C1859007E7921 /* button.png */;
+	};
+	E8AC45A41331D3D300825F8C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A550F912097E5E0062FE1C /* RibbonSelected.png */;
+	};
+	E8AC45A51331D3D300825F8C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A550F812097E5E0062FE1C /* Forward Button.png */;
+	};
+	E8AC45A61331D3D300825F8C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8D706FA120C1DFE007E7921 /* Main.png */;
+	};
+	E8AC45A71331D3D300825F8C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5518712097E880062FE1C /* Back Button.png */;
+	};
+	E8C4EE93120D3524009BE068 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A551BC12097E970062FE1C /* Default.png */;
+	};
+	E8C4EE95120D3525009BE068 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5510B12097E7B0062FE1C /* MarineCorpsRanks Info.png */;
+	};
+	E8C63E3613B909B90018FB79 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* NJROTC_AppViewController.h */;
+		name = "NJROTC_AppViewController.h: 159";
+		rLen = 1;
+		rLoc = 5647;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	E8C63E3713B909B90018FB79 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */;
+		name = "NJROTC_AppViewController.m: 560";
+		rLen = 207;
+		rLoc = 17272;
+		rType = 0;
+		vrLen = 1307;
+		vrLoc = 18900;
+	};
+	E8D706D7120C1975007E7921 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E863FD07120AD82000236F06 /* Rifle.png */;
+	};
+	E8D706DB120C1975007E7921 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E863FD08120AD82000236F06 /* loading.png */;
+	};
+	E8D706E6120C1975007E7921 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5511712097E7B0062FE1C /* SeaCruise Info.png */;
+	};
+	E8D706E7120C1975007E7921 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5512F12097E7B0062FE1C /* SeaCruise.png */;
+	};
+	E8D70758120C8E7C007E7921 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8D706C5120C1859007E7921 /* button.png */;
+	};
+	E8D70759120C8E7C007E7921 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A5518712097E880062FE1C /* Back Button.png */;
+	};
+	E8D7075A120C8E7C007E7921 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A550F912097E5E0062FE1C /* RibbonSelected.png */;
+	};
+	E8D7075B120C8E7C007E7921 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E8A550F812097E5E0062FE1C /* Forward Button.png */;
+	};
+	E8D7B4C21320105A00DCA43A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NJROTC_AppAppDelegate.h */;
+		name = "NJROTC_AppAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 117;
+		rType = 0;
+		vrLen = 489;
+		vrLoc = 0;
+	};
+	E8D7B4C31320105A00DCA43A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NJROTC_AppAppDelegate.m */;
+		name = "NJROTC_AppAppDelegate.m: 6";
+		rLen = 0;
+		rLoc = 117;
+		rType = 0;
+		vrLen = 2156;
+		vrLoc = 255;
+	};
+}

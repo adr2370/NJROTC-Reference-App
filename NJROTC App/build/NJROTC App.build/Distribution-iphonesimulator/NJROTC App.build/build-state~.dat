@@ -1,0 +1,2370 @@
+TNJROTC App
+v7
+r0
+t321392095.930700
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C9AD4330000000000000132
+t1285215283
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/iAd.framework/Headers/iAd.h
+c000000004CC657750000000000000071
+t1288066933
+s113
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004CC65780000000000002F590
+t1288066944
+s193936
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/AcademicAward Info.png
+c000000004D350972000000000002E543
+t1295321458
+s189763
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/Aptitude Info.png
+c000000004D350982000000000001D9E5
+t1295321474
+s121317
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/AwardsAndDecorations Info.png
+c000000004D35098E00000000000185F3
+t1295321486
+s99827
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/CNO Info.png
+c000000004D3509B6000000000003FB8C
+t1295321526
+s261004
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/CadetAchievement Info.png
+c000000004D35099C000000000002095B
+t1295321500
+s133467
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/Chairman Info.png
+c000000004D3509A8000000000004C86B
+t1295321512
+s313451
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/ColorGuard Info.png
+c000000004D3509CA000000000001C464
+t1295321546
+s115812
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/Commandant Info.png
+c000000004D3509D80000000000041245
+t1295321560
+s266821
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/CommunityService Info.png
+c000000004D3509E4000000000001D1EC
+t1295321572
+s119276
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/DevicePlacement Info.png
+c000000004D3509EE0000000000026292
+t1295321582
+s156306
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/Director Info.png
+c000000004D3509FA0000000000041C8D
+t1295321594
+s269453
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/DistinguishedCadet Info.png
+c000000004D350A06000000000001C772
+t1295321606
+s116594
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/DistinguishedUnit Info.png
+c000000004D350A10000000000001CEF5
+t1295321616
+s118517
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/DrillTeam Info.png
+c000000004D350A1A0000000000018DEC
+t1295321626
+s101868
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/ExemplaryConduct Info.png
+c000000004D350A2C0000000000016CD9
+t1295321644
+s93401
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/ExemplaryPersonalAppereance Info.png
+c000000004D350A380000000000017E3D
+t1295321656
+s97853
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/FemaleGrooming Info.png
+c000000004D350A42000000000002E490
+t1295321666
+s189584
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/GeneralOrders Info.png
+c000000004D350A4C0000000000037C9A
+t1295321676
+s228506
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/HonorCadet Info.png
+c000000004D350A580000000000016632
+t1295321688
+s91698
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/ImportantDates Info.png
+c000000004D350A64000000000000C463
+t1295321700
+s50275
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/MCPON Info.png
+c000000004D350A8C0000000000042501
+t1295321740
+s271617
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/MaleGrooming Info.png
+c000000004D350A6E0000000000022334
+t1295321710
+s140084
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/MarineCorpsRanks Info.png
+c000000004D3514EE0000000000025ACD
+t1295324398
+s154317
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/MarineCorpsRates Info.png
+c000000004D350A80000000000003305D
+t1295321728
+s208989
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/MeritoriousAchievement Info.png
+c000000004D350A9E0000000000026266
+t1295321758
+s156262
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/MiniBootCamp Info.png
+c000000004D350ABC000000000001A3B8
+t1295321788
+s107448
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/MiscKnowledge Info.png
+c000000004D350AC6000000000002D89F
+t1295321798
+s186527
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NETC Info.png
+c000000004D350B1C000000000003E8B8
+t1295321884
+s256184
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NJROTCRanks Info.png
+c000000004D350B26000000000001D640
+t1295321894
+s120384
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NJROTCRates Info.png
+c000000004D350B3C000000000003F2F0
+t1295321916
+s258800
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NSTC Info.png
+c000000004D350B580000000000040591
+t1295321944
+s263569
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NavalScienceIIIOutstandingCadet Info.png
+c000000004D350AD2000000000001CC36
+t1295321810
+s117814
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NavalScienceIIOutstandingCadet Info.png
+c000000004D350ADC000000000001B60C
+t1295321820
+s112140
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NavalScienceIOutstandingCadet Info.png
+c000000004D350AE600000000000196EF
+t1295321830
+s104175
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NavalScienceIVOutstandingCadet Info.png
+c000000004D350AF0000000000001DA05
+t1295321840
+s121349
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NavyRanks Info.png
+c000000004D3515020000000000024D3D
+t1295324418
+s150845
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NavyRates Info.png
+c000000004D350AFE0000000000030120
+t1295321854
+s196896
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NavyTerminology Info.png
+c000000004D350B0E00000000000172FE
+t1295321870
+s94974
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/Orienteering Info.png
+c000000004D350B620000000000019CF2
+t1295321954
+s105714
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/Participation Info.png
+c000000004D350B6C000000000001A2CE
+t1295321964
+s107214
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/PhoneticAlphabet Info.png
+c000000004D350B7600000000000103E5
+t1295321974
+s66533
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/PhysicalFitness Info.png
+c000000004D350B82000000000001C73E
+t1295321986
+s116542
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/President Info.png
+c000000004D350B8E0000000000034799
+t1295321998
+s214937
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/Recruiting Info.png
+c000000004D350B98000000000001D06D
+t1295322008
+s118893
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/RifleTeam Info.png
+c000000004D350BA4000000000001616D
+t1295322020
+s90477
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/SeaCruise Info.png
+c000000004D350BAE0000000000017DC2
+t1295322030
+s97730
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/SecDef Info.png
+c000000004D350BF00000000000040E76
+t1295322096
+s265846
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/SecNavy Info.png
+c000000004D350BD6000000000003A55D
+t1295322070
+s238941
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/SecState Info.png
+c000000004D350C28000000000003EFAB
+t1295322152
+s257963
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/SergeantMajor Info.png
+c000000004D350C3600000000000493B8
+t1295322166
+s299960
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/TypesOfCommands Info.png
+c000000004D350C420000000000014531
+t1295322178
+s83249
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/UniformComposition Info.png
+c000000004D350C4E0000000000015D46
+t1295322190
+s89414
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/UnitService Info.png
+c000000004D350C5A000000000001A377
+t1295322202
+s107383
+
+N/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/VicePres Info.png
+c000000004D350C64000000000003758F
+t1295322212
+s226703
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/AcademicAward Info.png
+c000000004C5D62D20000000000012526
+t1281188562
+s75046
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/AcademicAward.png
+c000000004C57FD180000000000000E21
+t1280834840
+s3617
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Aptitude Info.png
+c000000004C5D56BA000000000000F3DD
+t1281185466
+s62429
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Aptitude.png
+c000000004C57FCEE0000000000001237
+t1280834798
+s4663
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/AwardsAndDecorations Info.png
+c000000004C5FE6C4000000000000B81B
+t1281353412
+s47131
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Back Button.png
+c000000004C5C43790000000000003C32
+t1281115001
+s15410
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Background.png
+c000000004C5BE039000000000000FFA1
+t1281089593
+s65441
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/CNO Info.png
+c000000004C5D3FBA000000000001E11A
+t1281179578
+s123162
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/CadetAchievement Info.png
+c000000004C5D565E000000000000E64A
+t1281185374
+s58954
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/CadetAchievement.png
+c000000004C57FCD20000000000000E7C
+t1280834770
+s3708
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Chairman Info.png
+c000000004C5D4071000000000001C3C0
+t1281179761
+s115648
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.h
+c000000004D6FD44300000000000001E9
+t1299174467
+s489
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m
+c000000004D6FD44B0000000000000AC8
+t1299174475
+s2760
+i"NJROTC_AppAppDelegate.h"
+i"NJROTC_AppViewController.h"
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.h
+c000000004D6FD44B00000000000038FA
+t1299174475
+s14586
+i<UIKit/UIKit.h>
+i<iAd/iAd.h>
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m
+c000000004D6FD44B000000000001B9AB
+t1299174475
+s113067
+i"NJROTC_AppViewController.h"
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/ColorGuard Info.png
+c000000004C5D5CF9000000000000F1CC
+t1281187065
+s61900
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/ColorGuard.png
+c000000004C57FD5E00000000000011EF
+t1280834910
+s4591
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Commandant Info.png
+c000000004D055328000000000001C000
+t1292194600
+s114688
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/CommunityService Info.png
+c000000004C5D5C2F000000000000FF88
+t1281186863
+s65416
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/CommunityService.png
+c000000004C57FD320000000000001179
+t1280834866
+s4473
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Credits.png
+c000000004D6F418B00000000000172E7
+t1299136907
+s94951
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Default.png
+c000000004C5AAD6D0000000000005E16
+t1281011053
+s24086
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/DevicePlacement Info.png
+c000000004D6F49850000000000026BA3
+t1299138949
+s158627
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Director Info.png
+c000000004C5D4D08000000000001B5B6
+t1281182984
+s112054
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedCadet Info.png
+c000000004C5D559B000000000000E87B
+t1281185179
+s59515
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedCadet.png
+c000000004C57FCC20000000000000E9E
+t1280834754
+s3742
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedUnit Info.png
+c000000004C5D5520000000000000E627
+t1281185056
+s58919
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedUnit.png
+c000000004C57FCB80000000000001020
+t1280834744
+s4128
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Drill Info.png
+c000000004D6F4989000000000002CC04
+t1299138953
+s183300
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/DrillTeam Info.png
+c000000004C5D5CA2000000000000E225
+t1281186978
+s57893
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/DrillTeam.png
+c000000004C57FD360000000000000E7C
+t1280834870
+s3708
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryConduct Info.png
+c000000004C5D58D7000000000000DCCE
+t1281186007
+s56526
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryConduct.png
+c000000004C57FD130000000000001039
+t1280834835
+s4153
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryPersonalAppereance Info.png
+c000000004C5D5A1C000000000000D55E
+t1281186332
+s54622
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryPersonalAppereance.png
+c000000004C57FD1E0000000000000E14
+t1280834846
+s3604
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/FemaleGrooming Info.png
+c000000004D0552760000000000032200
+t1292194422
+s205312
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Forward Button.png
+c000000004C5C43A90000000000003545
+t1281115049
+s13637
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/GeneralOrders Info.png
+c000000004D0552760000000000064000
+t1292194422
+s409600
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/HonorCadet Info.png
+c000000004C5D5601000000000000D312
+t1281185281
+s54034
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/HonorCadet.png
+c000000004C57FCC90000000000000CBA
+t1280834761
+s3258
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/ImportantDates Info.png
+c000000004C5FFBC9000000000000AA10
+t1281358793
+s43536
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MCPON Info.png
+c000000004C5D43FD000000000001F707
+t1281180669
+s128775
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Main.png
+c000000004C612855000000000007A301
+t1281435733
+s500481
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MainWindow.xib
+c000000004C6380F4000000000000447A
+t1281589492
+s17530
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MaleGrooming Info.png
+c000000004D0552760000000000030A00
+t1292194422
+s199168
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MarineCorpsRanks Info.png
+c000000004C5E9BF700000000000157CB
+t1281268727
+s88011
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MarineCorpsRates Info.png
+c000000004C5E53BD0000000000015CF2
+t1281250237
+s89330
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MeritoriousAchievement Info.png
+c000000004C5D553E0000000000010292
+t1281185086
+s66194
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MeritoriousAchievement.png
+c000000004C57FCA90000000000001213
+t1280834729
+s4627
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MiniBootCamp Info.png
+c000000004C5D5E57000000000000EEFC
+t1281187415
+s61180
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MiniBootCamp.png
+c000000004C57FD78000000000000107E
+t1280834936
+s4222
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MiscKnowledge Info.png
+c000000004D0552760000000000039600
+t1292194422
+s235008
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NETC Info.png
+c000000004C5D4BDA000000000001C971
+t1281182682
+s117105
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NJROTCRanks Info.png
+c000000004C5FCEB60000000000010237
+t1281347254
+s66103
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NJROTCRates Info.png
+c000000004C5FCEAB000000000001399B
+t1281347243
+s80283
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_AppViewController.xib
+c000000004D6F43DC000000000003A961
+t1299137500
+s239969
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_App_Prefix.pch
+c000000004C5657F000000000000000BD
+t1280727024
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NSTC Info.png
+c000000004D0553280000000000026C00
+t1292194600
+s158720
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIIOutstandingCadet Info.png
+c000000004C5D57DE000000000000E967
+t1281185758
+s59751
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIIOutstandingCadet.png
+c000000004C57FD03000000000000108B
+t1280834819
+s4235
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIOutstandingCadet Info.png
+c000000004C5D581A000000000000E2A0
+t1281185818
+s58016
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIOutstandingCadet.png
+c000000004C57FD080000000000000F79
+t1280834824
+s3961
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIOutstandingCadet Info.png
+c000000004C5D5868000000000000D7C3
+t1281185896
+s55235
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIOutstandingCadet.png
+c000000004C57FD0E0000000000000DD4
+t1280834830
+s3540
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIVOutstandingCadet Info.png
+c000000004C5D572F000000000000EFB6
+t1281185583
+s61366
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIVOutstandingCadet.png
+c000000004C57FCFC0000000000001161
+t1280834812
+s4449
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavyRanks Info.png
+c000000004C5E97830000000000014608
+t1281267587
+s83464
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavyRates Info.png
+c000000004C5D6DEE0000000000014AD3
+t1281191406
+s84691
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavyTerminology Info.png
+c000000004D0552760000000000027800
+t1292194422
+s161792
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Orienteering Info.png
+c000000004C5D5DA1000000000000E08C
+t1281187233
+s57484
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Orienteering.png
+c000000004C57FD6F0000000000000E06
+t1280834927
+s3590
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Participation Info.png
+c000000004C5D5B74000000000000EF02
+t1281186676
+s61186
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Participation.png
+c000000004C57FD2A00000000000011AB
+t1280834858
+s4523
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/PhoneticAlphabet Info.png
+c000000004D0552760000000000029400
+t1292194422
+s168960
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/PhysicalFitness Info.png
+c000000004C5D5B10000000000000FD1A
+t1281186576
+s64794
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/PhysicalFitness.png
+c000000004C57FD250000000000000EFA
+t1280834853
+s3834
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/President Info.png
+c000000004C5D2D7C000000000001A7DD
+t1281174908
+s108509
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Recruiting Info.png
+c000000004C5D5DE2000000000000EF35
+t1281187298
+s61237
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Recruiting.png
+c000000004C57FD74000000000000105B
+t1280834932
+s4187
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/RibbonSelected.png
+c000000004C5C4F5B0000000000000B63
+t1281118043
+s2915
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Rifle.png
+c000000004C5A9DF40000000000001941
+t1281007092
+s6465
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/RifleTeam Info.png
+c000000004C5D5D44000000000000D962
+t1281187140
+s55650
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/RifleTeam.png
+c000000004C57FD690000000000000D83
+t1280834921
+s3459
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/RootViewController.xib
+c000000004C5655730000000000004455
+t1280726387
+s17493
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/SeaCruise Info.png
+c000000004C5D5E95000000000000E157
+t1281187477
+s57687
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/SeaCruise.png
+c000000004C57FD7D0000000000000F38
+t1280834941
+s3896
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/SecDef Info.png
+c000000004C5D39B7000000000001BBDC
+t1281178039
+s113628
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/SecNavy Info.png
+c000000004C5D3AD90000000000019392
+t1281178329
+s103314
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/SecState Info.png
+c000000004C5D365C000000000001A62F
+t1281177180
+s108079
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/SergeantMajor Info.png
+c000000004C5D4693000000000001E8A2
+t1281181331
+s125090
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Thing.png
+c000000004C63CA8C0000000000002961
+t1281608332
+s10593
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/TypesOfCommands Info.png
+c000000004C5FEFF2000000000000C465
+t1281355762
+s50277
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/UniformComposition Info.png
+c000000004D0552760000000000032E00
+t1292194422
+s208384
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/UnitService Info.png
+c000000004C5D5BE6000000000000EF15
+t1281186790
+s61205
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/UnitService.png
+c000000004C57FD2E000000000000106B
+t1280834862
+s4203
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/VicePres Info.png
+c000000004C5D2D2D000000000001AD99
+t1281174829
+s109977
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app.dSYM
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/AcademicAward Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/AcademicAward.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Aptitude Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Aptitude.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/AwardsAndDecorations Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Back Button.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Background.png
+t1282625994
+s65441
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/CNO Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/CadetAchievement Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/CadetAchievement.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Chairman Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/ColorGuard Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/ColorGuard.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Commandant Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/CommunityService Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/CommunityService.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Credits.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Default.png
+t1282625994
+s24086
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/DevicePlacement Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Director Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/DistinguishedCadet Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/DistinguishedCadet.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/DistinguishedUnit Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/DistinguishedUnit.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Drill Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/DrillTeam Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/DrillTeam.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/ExemplaryConduct Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/ExemplaryConduct.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/ExemplaryPersonalAppereance Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/ExemplaryPersonalAppereance.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/FemaleGrooming Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Forward Button.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/GeneralOrders Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/HonorCadet Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/HonorCadet.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/ImportantDates Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Info.plist
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/MCPON Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Main.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/MainWindow.nib
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/MaleGrooming Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/MarineCorpsRanks Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/MarineCorpsRates Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/MeritoriousAchievement Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/MeritoriousAchievement.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/MiniBootCamp Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/MiniBootCamp.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/MiscKnowledge Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NETC Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NJROTC App
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NJROTCRanks Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NJROTCRates Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NJROTC_AppViewController.nib
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NSTC Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIIIOutstandingCadet Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIIIOutstandingCadet.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIIOutstandingCadet Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIIOutstandingCadet.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIOutstandingCadet Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIOutstandingCadet.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIVOutstandingCadet Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIVOutstandingCadet.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NavyRanks Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NavyRates Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NavyTerminology Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Orienteering Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Orienteering.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Participation Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Participation.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/PhoneticAlphabet Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/PhysicalFitness Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/PhysicalFitness.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/PkgInfo
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/President Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Recruiting Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Recruiting.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/RibbonSelected.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Rifle.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/RifleTeam Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/RifleTeam.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/RootViewController.nib
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/SeaCruise Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/SeaCruise.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/SecDef Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/SecNavy Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/SecState Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/SergeantMajor Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Thing.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/TypesOfCommands Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/UniformComposition Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/UnitService Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/UnitService.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/VicePres Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/button.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/loading.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC App.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppAppDelegate.o
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppViewController.o
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/button.png
+c000000004C5BE0CE0000000000000E46
+t1281089742
+s3654
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/loading.png
+c000000004C5A9DE9000000000000269C
+t1281007081
+s9884
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/main.m
+c000000004C5657F0000000000000016F
+t1280727024
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-dkrkcomcfacjoceriqwsygmewjca/NJROTC_App_Prefix.pch.gch
+t1282626002
+s14896144
+
+N/var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-eolaaidjnhuqmoelqmwfjyixftln/NJROTC_App_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-exzsyfjthkmvbhgqdjlpqblutrrj/NJROTC_App_Prefix.pch.gch
+t2
+s0
+
+NNJROTC_App-Info.plist
+c000000004C63D42E0000000000000395
+t1281610798
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321392094#321392095#0(174"[WARN]Warning: Multiple build commands for output file /Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/DevicePlacement Info.png1(22@167"Warning: Multiple build commands for output file /Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/DevicePlacement Info.png321392095#18446744073709551615#0#0(1@0"0(0#1#0"9007697477435492#0"0#
+
+CCompileC "build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppAppDelegate.o" "/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s313886354.190526
+e313886354.538041
+r1
+xCompileC
+xbuild/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppAppDelegate.o
+x/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m313886354#313886354#0(0"0(0#0#75"/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m8626043584#2184"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-generated-files.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-own-target-headers.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-all-target-headers.hmap" -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-project-headers.hmap" "-F/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/include" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/DerivedSources/i386" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-dkrkcomcfacjoceriqwsygmewjca/NJROTC_App_Prefix.pch -c "/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m" -o "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppAppDelegate.o"0#
+
+CCompileC "build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppViewController.o" "/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s313954640.996045
+e313954663.947463
+r1
+xCompileC
+xbuild/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppViewController.o
+x/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m313954640#313954663#0(0"0(0#0#78"/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m8610663360#2190"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-generated-files.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-own-target-headers.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-all-target-headers.hmap" -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-project-headers.hmap" "-F/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/include" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/DerivedSources/i386" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-dkrkcomcfacjoceriqwsygmewjca/NJROTC_App_Prefix.pch -c "/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m" -o "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppViewController.o"0#
+
+CCompileC "build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/Objects-normal/i386/main.o" "/Users/alexdr/Programming/IPhone/NJROTC App/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304318802.218452
+e304318802.550657
+r1
+xCompileC
+xbuild/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/Objects-normal/i386/main.o
+x/Users/alexdr/Programming/IPhone/NJROTC App/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/alexdr/Programming/IPhone/NJROTC App/main.m304318802#304318802#0(0"0(0#0#50"/Users/alexdr/Programming/IPhone/NJROTC App/main.m8618909568#2142"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-generated-files.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-own-target-headers.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-all-target-headers.hmap" -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-project-headers.hmap" "-F/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/include" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/DerivedSources/i386" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-dkrkcomcfacjoceriqwsygmewjca/NJROTC_App_Prefix.pch -c "/Users/alexdr/Programming/IPhone/NJROTC App/main.m" -o "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/MainWindow.xib"
+s304318798.093366
+e304318798.550887
+r1
+xCompileXIB
+x/Users/alexdr/Programming/IPhone/NJROTC App/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib304318798#304318798#0(0"0(0#0#58"/Users/alexdr/Programming/IPhone/NJROTC App/MainWindow.xib8619905856#601"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/MainWindow.nib" "/Users/alexdr/Programming/IPhone/NJROTC App/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_AppViewController.xib"
+s313953435.743478
+e313953460.510930
+r1
+xCompileXIB
+x/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_AppViewController.xib
+lSLF07#2@39"CompileXIB NJROTC_AppViewController.xib313953435#313953460#0(0"0(0#0#72"/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_AppViewController.xib27303562373955696#629"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NJROTC_AppViewController.nib" "/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_AppViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/RootViewController.xib"
+s304318794.665469
+e304318798.093184
+r1
+xCompileXIB
+x/Users/alexdr/Programming/IPhone/NJROTC App/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib304318794#304318798#0(0"0(0#0#66"/Users/alexdr/Programming/IPhone/NJROTC App/RootViewController.xib8619361664#617"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/RootViewController.nib" "/Users/alexdr/Programming/IPhone/NJROTC App/RootViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/AcademicAward Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/AcademicAward Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/AcademicAward Info.png" "AcademicAward Info.png"
+s304318793.556365
+e304318794.043543
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/AcademicAward Info.png
+xAcademicAward Info.png
+lSLF07#2@27"Copy AcademicAward Info.png304318793#304318794#0(0"0(0#0#66"/Users/alexdr/Programming/IPhone/NJROTC App/AcademicAward Info.png8606643840#518"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/AcademicAward Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/AcademicAward.png" AcademicAward.png
+s304318794.119941
+e304318794.201835
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/AcademicAward.png
+xAcademicAward.png
+lSLF07#2@22"Copy AcademicAward.png304318794#304318794#0(0"0(0#0#61"/Users/alexdr/Programming/IPhone/NJROTC App/AcademicAward.png8606942432#513"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/AcademicAward.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Aptitude Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/Aptitude Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Aptitude Info.png" "Aptitude Info.png"
+s304318793.743331
+e304318794.025789
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Aptitude Info.png
+xAptitude Info.png
+lSLF07#2@22"Copy Aptitude Info.png304318793#304318794#0(0"0(0#0#61"/Users/alexdr/Programming/IPhone/NJROTC App/Aptitude Info.png8619680032#513"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Aptitude Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Aptitude.png" Aptitude.png
+s304318794.186757
+e304318794.286564
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Aptitude.png
+xAptitude.png
+lSLF07#2@17"Copy Aptitude.png304318794#304318794#0(0"0(0#0#56"/Users/alexdr/Programming/IPhone/NJROTC App/Aptitude.png8619474656#508"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Aptitude.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/AwardsAndDecorations Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/AwardsAndDecorations Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/AwardsAndDecorations Info.png" "AwardsAndDecorations Info.png"
+s304318798.732879
+e304318798.823869
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/AwardsAndDecorations Info.png
+xAwardsAndDecorations Info.png
+lSLF07#2@34"Copy AwardsAndDecorations Info.png304318798#304318798#0(0"0(0#0#73"/Users/alexdr/Programming/IPhone/NJROTC App/AwardsAndDecorations Info.png8618947424#525"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/AwardsAndDecorations Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Back Button.png" "Back Button.png"
+s304318794.256801
+e304318794.353461
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Back Button.png
+xBack Button.png
+lSLF07#2@20"Copy Back Button.png304318794#304318794#0(0"0(0#0#59"/Users/alexdr/Programming/IPhone/NJROTC App/Back Button.png8617780704#511"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Back Button.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Background.png" Background.png
+s304318794.663214
+e304318794.810564
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Background.png
+xBackground.png
+lSLF07#2@19"Copy Background.png304318794#304318794#0(0"0(0#0#58"/Users/alexdr/Programming/IPhone/NJROTC App/Background.png8619624032#510"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Background.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/CNO Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/CNO Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/CNO Info.png" "CNO Info.png"
+s304318794.335459
+e304318794.667785
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/CNO Info.png
+xCNO Info.png
+lSLF07#2@17"Copy CNO Info.png304318794#304318794#0(0"0(0#0#56"/Users/alexdr/Programming/IPhone/NJROTC App/CNO Info.png8619433632#508"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/CNO Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/CadetAchievement Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/CadetAchievement Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/CadetAchievement Info.png" "CadetAchievement Info.png"
+s304318793.746019
+e304318794.022889
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/CadetAchievement Info.png
+xCadetAchievement Info.png
+lSLF07#2@30"Copy CadetAchievement Info.png304318793#304318794#0(0"0(0#0#69"/Users/alexdr/Programming/IPhone/NJROTC App/CadetAchievement Info.png8619429504#521"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/CadetAchievement Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/CadetAchievement.png" CadetAchievement.png
+s304318794.197138
+e304318794.284038
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/CadetAchievement.png
+xCadetAchievement.png
+lSLF07#2@25"Copy CadetAchievement.png304318794#304318794#0(0"0(0#0#64"/Users/alexdr/Programming/IPhone/NJROTC App/CadetAchievement.png8619012768#516"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/CadetAchievement.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Chairman Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/Chairman Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Chairman Info.png" "Chairman Info.png"
+s304318794.353625
+e304318794.646819
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Chairman Info.png
+xChairman Info.png
+lSLF07#2@22"Copy Chairman Info.png304318794#304318794#0(0"0(0#0#61"/Users/alexdr/Programming/IPhone/NJROTC App/Chairman Info.png8618999968#513"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Chairman Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/ColorGuard Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/ColorGuard Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/ColorGuard Info.png" "ColorGuard Info.png"
+s304318793.394287
+e304318793.553521
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/ColorGuard Info.png
+xColorGuard Info.png
+lSLF07#2@24"Copy ColorGuard Info.png304318793#304318793#0(0"0(0#0#63"/Users/alexdr/Programming/IPhone/NJROTC App/ColorGuard Info.png8618813632#515"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/ColorGuard Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/ColorGuard.png" ColorGuard.png
+s304318794.035304
+e304318794.115363
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/ColorGuard.png
+xColorGuard.png
+lSLF07#2@19"Copy ColorGuard.png304318794#304318794#0(0"0(0#0#58"/Users/alexdr/Programming/IPhone/NJROTC App/ColorGuard.png8616046272#510"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/ColorGuard.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Commandant Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/Commandant Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Commandant Info.png" "Commandant Info.png"
+s313888673.986844
+e313888674.701087
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Commandant Info.png
+xCommandant Info.png
+lSLF07#2@24"Copy Commandant Info.png313888673#313888675#0(0"0(0#0#63"/Users/alexdr/Programming/IPhone/NJROTC App/Commandant Info.png8627867936#515"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Commandant Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/CommunityService Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/CommunityService Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/CommunityService Info.png" "CommunityService Info.png"
+s304318793.485368
+e304318793.723325
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/CommunityService Info.png
+xCommunityService Info.png
+lSLF07#2@30"Copy CommunityService Info.png304318793#304318793#0(0"0(0#0#69"/Users/alexdr/Programming/IPhone/NJROTC App/CommunityService Info.png8617718880#521"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/CommunityService Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/CommunityService.png" CommunityService.png
+s304318794.043666
+e304318794.134009
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/CommunityService.png
+xCommunityService.png
+lSLF07#2@25"Copy CommunityService.png304318794#304318794#0(0"0(0#0#64"/Users/alexdr/Programming/IPhone/NJROTC App/CommunityService.png8614986880#516"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/CommunityService.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Credits.png" Credits.png
+s304318798.559591
+e304318798.741137
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Credits.png
+xCredits.png
+lSLF07#2@16"Copy Credits.png304318798#304318798#0(0"0(0#0#55"/Users/alexdr/Programming/IPhone/NJROTC App/Credits.png8616732256#507"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Credits.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Default.png" Default.png
+s304318794.662402
+e304318794.732907
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png304318794#304318794#0(0"0(0#0#55"/Users/alexdr/Programming/IPhone/NJROTC App/Default.png8620036000#507"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Default.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/DevicePlacement Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/DevicePlacement Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/DevicePlacement Info.png" "DevicePlacement Info.png"
+s313888674.050314
+e313888675.131306
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/DevicePlacement Info.png
+xDevicePlacement Info.png
+lSLF07#2@29"Copy DevicePlacement Info.png313888674#313888675#0(0"0(0#0#68"/Users/alexdr/Programming/IPhone/NJROTC App/DevicePlacement Info.png8623032672#520"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/DevicePlacement Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Director Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/Director Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Director Info.png" "Director Info.png"
+s304318794.284167
+e304318794.662049
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Director Info.png
+xDirector Info.png
+lSLF07#2@22"Copy Director Info.png304318794#304318794#0(0"0(0#0#61"/Users/alexdr/Programming/IPhone/NJROTC App/Director Info.png8617253664#513"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Director Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/DistinguishedCadet Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/DistinguishedCadet Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/DistinguishedCadet Info.png" "DistinguishedCadet Info.png"
+s304318793.752317
+e304318794.030886
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/DistinguishedCadet Info.png
+xDistinguishedCadet Info.png
+lSLF07#2@32"Copy DistinguishedCadet Info.png304318793#304318794#0(0"0(0#0#71"/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedCadet Info.png8618813376#523"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedCadet Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/DistinguishedCadet.png" DistinguishedCadet.png
+s304318794.202050
+e304318794.335316
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/DistinguishedCadet.png
+xDistinguishedCadet.png
+lSLF07#2@27"Copy DistinguishedCadet.png304318794#304318794#0(0"0(0#0#66"/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedCadet.png8618723584#518"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedCadet.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/DistinguishedUnit Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/DistinguishedUnit Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/DistinguishedUnit Info.png" "DistinguishedUnit Info.png"
+s304318793.766733
+e304318794.031105
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/DistinguishedUnit Info.png
+xDistinguishedUnit Info.png
+lSLF07#2@31"Copy DistinguishedUnit Info.png304318793#304318794#0(0"0(0#0#70"/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedUnit Info.png8618734976#522"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedUnit Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/DistinguishedUnit.png" DistinguishedUnit.png
+s304318794.203183
+e304318794.334273
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/DistinguishedUnit.png
+xDistinguishedUnit.png
+lSLF07#2@26"Copy DistinguishedUnit.png304318794#304318794#0(0"0(0#0#65"/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedUnit.png8618386304#517"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedUnit.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Drill Info.png" "Drill Info.png"
+s304318798.631757
+e304318798.737008
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Drill Info.png
+xDrill Info.png
+lSLF07#2@19"Copy Drill Info.png304318798#304318798#0(0"0(0#0#58"/Users/alexdr/Programming/IPhone/NJROTC App/Drill Info.png8605614880#510"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Drill Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/DrillTeam Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/DrillTeam Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/DrillTeam Info.png" "DrillTeam Info.png"
+s304318793.469690
+e304318793.678939
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/DrillTeam Info.png
+xDrillTeam Info.png
+lSLF07#2@23"Copy DrillTeam Info.png304318793#304318793#0(0"0(0#0#62"/Users/alexdr/Programming/IPhone/NJROTC App/DrillTeam Info.png8618394912#514"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/DrillTeam Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/DrillTeam.png" DrillTeam.png
+s304318794.037444
+e304318794.126467
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/DrillTeam.png
+xDrillTeam.png
+lSLF07#2@18"Copy DrillTeam.png304318794#304318794#0(0"0(0#0#57"/Users/alexdr/Programming/IPhone/NJROTC App/DrillTeam.png8615729984#509"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/DrillTeam.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/ExemplaryConduct Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/ExemplaryConduct Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/ExemplaryConduct Info.png" "ExemplaryConduct Info.png"
+s304318793.557058
+e304318793.752201
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/ExemplaryConduct Info.png
+xExemplaryConduct Info.png
+lSLF07#2@30"Copy ExemplaryConduct Info.png304318793#304318793#0(0"0(0#0#69"/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryConduct Info.png8606387328#521"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryConduct Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/ExemplaryConduct.png" ExemplaryConduct.png
+s304318794.121945
+e304318794.201968
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/ExemplaryConduct.png
+xExemplaryConduct.png
+lSLF07#2@25"Copy ExemplaryConduct.png304318794#304318794#0(0"0(0#0#64"/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryConduct.png8606872608#516"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryConduct.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/ExemplaryPersonalAppereance Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/ExemplaryPersonalAppereance Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/ExemplaryPersonalAppereance Info.png" "ExemplaryPersonalAppereance Info.png"
+s304318793.555660
+e304318793.748274
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/ExemplaryPersonalAppereance Info.png
+xExemplaryPersonalAppereance Info.png
+lSLF07#2@41"Copy ExemplaryPersonalAppereance Info.png304318793#304318793#0(0"0(0#0#80"/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryPersonalAppereance Info.png8607009376#532"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryPersonalAppereance Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/ExemplaryPersonalAppereance.png" ExemplaryPersonalAppereance.png
+s304318794.117621
+e304318794.201690
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/ExemplaryPersonalAppereance.png
+xExemplaryPersonalAppereance.png
+lSLF07#2@36"Copy ExemplaryPersonalAppereance.png304318794#304318794#0(0"0(0#0#75"/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryPersonalAppereance.png8607184288#527"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryPersonalAppereance.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/FemaleGrooming Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/FemaleGrooming Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/FemaleGrooming Info.png" "FemaleGrooming Info.png"
+s313888674.052070
+e313888674.860365
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/FemaleGrooming Info.png
+xFemaleGrooming Info.png
+lSLF07#2@28"Copy FemaleGrooming Info.png313888674#313888675#0(0"0(0#0#67"/Users/alexdr/Programming/IPhone/NJROTC App/FemaleGrooming Info.png8620731264#519"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/FemaleGrooming Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Forward Button.png" "Forward Button.png"
+s304318793.094824
+e304318793.237948
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Forward Button.png
+xForward Button.png
+lSLF07#2@23"Copy Forward Button.png304318793#304318793#0(0"0(0#0#62"/Users/alexdr/Programming/IPhone/NJROTC App/Forward Button.png8599594272#514"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Forward Button.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/GeneralOrders Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/GeneralOrders Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/GeneralOrders Info.png" "GeneralOrders Info.png"
+s313888674.039971
+e313888675.651255
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/GeneralOrders Info.png
+xGeneralOrders Info.png
+lSLF07#2@27"Copy GeneralOrders Info.png313888674#313888675#0(0"0(0#0#66"/Users/alexdr/Programming/IPhone/NJROTC App/GeneralOrders Info.png8621697408#518"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/GeneralOrders Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/HonorCadet Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/HonorCadet Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/HonorCadet Info.png" "HonorCadet Info.png"
+s304318793.748390
+e304318794.030658
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/HonorCadet Info.png
+xHonorCadet Info.png
+lSLF07#2@24"Copy HonorCadet Info.png304318793#304318794#0(0"0(0#0#63"/Users/alexdr/Programming/IPhone/NJROTC App/HonorCadet Info.png8619028704#515"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/HonorCadet Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/HonorCadet.png" HonorCadet.png
+s304318794.199573
+e304318794.333174
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/HonorCadet.png
+xHonorCadet.png
+lSLF07#2@19"Copy HonorCadet.png304318794#304318794#0(0"0(0#0#58"/Users/alexdr/Programming/IPhone/NJROTC App/HonorCadet.png8618813888#510"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/HonorCadet.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/ImportantDates Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/ImportantDates Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/ImportantDates Info.png" "ImportantDates Info.png"
+s304318798.561452
+e304318798.732477
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/ImportantDates Info.png
+xImportantDates Info.png
+lSLF07#2@28"Copy ImportantDates Info.png304318798#304318798#0(0"0(0#0#67"/Users/alexdr/Programming/IPhone/NJROTC App/ImportantDates Info.png8618367200#519"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/ImportantDates Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MCPON Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/MCPON Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MCPON Info.png" "MCPON Info.png"
+s304318794.333300
+e304318794.661893
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/MCPON Info.png
+xMCPON Info.png
+lSLF07#2@19"Copy MCPON Info.png304318794#304318794#0(0"0(0#0#58"/Users/alexdr/Programming/IPhone/NJROTC App/MCPON Info.png8620053600#510"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/MCPON Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Main.png" Main.png
+s304318798.557748
+e304318798.838866
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Main.png
+xMain.png
+lSLF07#2@13"Copy Main.png304318798#304318798#0(0"0(0#0#52"/Users/alexdr/Programming/IPhone/NJROTC App/Main.png8616959008#504"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Main.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MaleGrooming Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/MaleGrooming Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MaleGrooming Info.png" "MaleGrooming Info.png"
+s313888674.053802
+e313888674.644717
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/MaleGrooming Info.png
+xMaleGrooming Info.png
+lSLF07#2@26"Copy MaleGrooming Info.png313888674#313888675#0(0"0(0#0#65"/Users/alexdr/Programming/IPhone/NJROTC App/MaleGrooming Info.png8620478880#517"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/MaleGrooming Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MarineCorpsRanks Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/MarineCorpsRanks Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MarineCorpsRanks Info.png" "MarineCorpsRanks Info.png"
+s304318793.096414
+e304318793.553663
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/MarineCorpsRanks Info.png
+xMarineCorpsRanks Info.png
+lSLF07#2@30"Copy MarineCorpsRanks Info.png304318793#304318793#0(0"0(0#0#69"/Users/alexdr/Programming/IPhone/NJROTC App/MarineCorpsRanks Info.png8617550304#521"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/MarineCorpsRanks Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MarineCorpsRates Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/MarineCorpsRates Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MarineCorpsRates Info.png" "MarineCorpsRates Info.png"
+s304318793.097104
+e304318793.553805
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/MarineCorpsRates Info.png
+xMarineCorpsRates Info.png
+lSLF07#2@30"Copy MarineCorpsRates Info.png304318793#304318793#0(0"0(0#0#69"/Users/alexdr/Programming/IPhone/NJROTC App/MarineCorpsRates Info.png8616903072#521"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/MarineCorpsRates Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MeritoriousAchievement Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/MeritoriousAchievement Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MeritoriousAchievement Info.png" "MeritoriousAchievement Info.png"
+s304318794.023292
+e304318794.505737
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/MeritoriousAchievement Info.png
+xMeritoriousAchievement Info.png
+lSLF07#2@36"Copy MeritoriousAchievement Info.png304318794#304318794#0(0"0(0#0#75"/Users/alexdr/Programming/IPhone/NJROTC App/MeritoriousAchievement Info.png8617494976#527"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/MeritoriousAchievement Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MeritoriousAchievement.png" MeritoriousAchievement.png
+s304318794.203979
+e304318794.256634
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/MeritoriousAchievement.png
+xMeritoriousAchievement.png
+lSLF07#2@31"Copy MeritoriousAchievement.png304318794#304318794#0(0"0(0#0#70"/Users/alexdr/Programming/IPhone/NJROTC App/MeritoriousAchievement.png8618067456#522"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/MeritoriousAchievement.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MiniBootCamp Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/MiniBootCamp Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MiniBootCamp Info.png" "MiniBootCamp Info.png"
+s304318793.238060
+e304318793.390228
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/MiniBootCamp Info.png
+xMiniBootCamp Info.png
+lSLF07#2@26"Copy MiniBootCamp Info.png304318793#304318793#0(0"0(0#0#65"/Users/alexdr/Programming/IPhone/NJROTC App/MiniBootCamp Info.png8620055584#517"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/MiniBootCamp Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MiniBootCamp.png" MiniBootCamp.png
+s304318794.026157
+e304318794.114765
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/MiniBootCamp.png
+xMiniBootCamp.png
+lSLF07#2@21"Copy MiniBootCamp.png304318794#304318794#0(0"0(0#0#60"/Users/alexdr/Programming/IPhone/NJROTC App/MiniBootCamp.png8616909120#512"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/MiniBootCamp.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MiscKnowledge Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/MiscKnowledge Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/MiscKnowledge Info.png" "MiscKnowledge Info.png"
+s313888674.048689
+e313888674.726161
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/MiscKnowledge Info.png
+xMiscKnowledge Info.png
+lSLF07#2@27"Copy MiscKnowledge Info.png313888674#313888675#0(0"0(0#0#66"/Users/alexdr/Programming/IPhone/NJROTC App/MiscKnowledge Info.png8626356032#518"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/MiscKnowledge Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NETC Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NETC Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NETC Info.png" "NETC Info.png"
+s304318794.287904
+e304318794.646993
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NETC Info.png
+xNETC Info.png
+lSLF07#2@18"Copy NETC Info.png304318794#304318794#0(0"0(0#0#57"/Users/alexdr/Programming/IPhone/NJROTC App/NETC Info.png8616966624#509"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NETC Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NJROTCRanks Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NJROTCRanks Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NJROTCRanks Info.png" "NJROTCRanks Info.png"
+s304318793.099167
+e304318793.554084
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NJROTCRanks Info.png
+xNJROTCRanks Info.png
+lSLF07#2@25"Copy NJROTCRanks Info.png304318793#304318793#0(0"0(0#0#64"/Users/alexdr/Programming/IPhone/NJROTC App/NJROTCRanks Info.png8617406240#516"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NJROTCRanks Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NJROTCRates Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NJROTCRates Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NJROTCRates Info.png" "NJROTCRates Info.png"
+s304318793.099857
+e304318793.533524
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NJROTCRates Info.png
+xNJROTCRates Info.png
+lSLF07#2@25"Copy NJROTCRates Info.png304318793#304318793#0(0"0(0#0#64"/Users/alexdr/Programming/IPhone/NJROTC App/NJROTCRates Info.png8617681088#516"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NJROTCRates Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NSTC Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NSTC Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NSTC Info.png" "NSTC Info.png"
+s313888673.771104
+e313888674.799143
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NSTC Info.png
+xNSTC Info.png
+lSLF07#2@18"Copy NSTC Info.png313888673#313888675#0(0"0(0#0#57"/Users/alexdr/Programming/IPhone/NJROTC App/NSTC Info.png8629053472#509"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NSTC Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIIIOutstandingCadet Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NavalScienceIIIOutstandingCadet Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIIIOutstandingCadet Info.png" "NavalScienceIIIOutstandingCadet Info.png"
+s304318793.723447
+e304318794.031293
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIIIOutstandingCadet Info.png
+xNavalScienceIIIOutstandingCadet Info.png
+lSLF07#2@45"Copy NavalScienceIIIOutstandingCadet Info.png304318793#304318794#0(0"0(0#0#84"/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIIOutstandingCadet Info.png8620495264#536"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIIOutstandingCadet Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIIIOutstandingCadet.png" NavalScienceIIIOutstandingCadet.png
+s304318794.177912
+e304318794.286383
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIIIOutstandingCadet.png
+xNavalScienceIIIOutstandingCadet.png
+lSLF07#2@40"Copy NavalScienceIIIOutstandingCadet.png304318794#304318794#0(0"0(0#0#79"/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIIOutstandingCadet.png8620042464#531"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIIOutstandingCadet.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIIOutstandingCadet Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NavalScienceIIOutstandingCadet Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIIOutstandingCadet Info.png" "NavalScienceIIOutstandingCadet Info.png"
+s304318793.679045
+e304318794.026001
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIIOutstandingCadet Info.png
+xNavalScienceIIOutstandingCadet Info.png
+lSLF07#2@44"Copy NavalScienceIIOutstandingCadet Info.png304318793#304318794#0(0"0(0#0#83"/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIOutstandingCadet Info.png8605651072#535"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIOutstandingCadet Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIIOutstandingCadet.png" NavalScienceIIOutstandingCadet.png
+s304318794.134118
+e304318794.197033
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIIOutstandingCadet.png
+xNavalScienceIIOutstandingCadet.png
+lSLF07#2@39"Copy NavalScienceIIOutstandingCadet.png304318794#304318794#0(0"0(0#0#78"/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIOutstandingCadet.png8606479712#530"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIOutstandingCadet.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIOutstandingCadet Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NavalScienceIOutstandingCadet Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIOutstandingCadet Info.png" "NavalScienceIOutstandingCadet Info.png"
+s304318793.557802
+e304318793.766617
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIOutstandingCadet Info.png
+xNavalScienceIOutstandingCadet Info.png
+lSLF07#2@43"Copy NavalScienceIOutstandingCadet Info.png304318793#304318793#0(0"0(0#0#82"/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIOutstandingCadet Info.png8605957312#534"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIOutstandingCadet Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIOutstandingCadet.png" NavalScienceIOutstandingCadet.png
+s304318794.126577
+e304318794.177802
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIOutstandingCadet.png
+xNavalScienceIOutstandingCadet.png
+lSLF07#2@38"Copy NavalScienceIOutstandingCadet.png304318794#304318794#0(0"0(0#0#77"/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIOutstandingCadet.png8606598240#529"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIOutstandingCadet.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIVOutstandingCadet Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NavalScienceIVOutstandingCadet Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIVOutstandingCadet Info.png" "NavalScienceIVOutstandingCadet Info.png"
+s304318793.740790
+e304318794.023145
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIVOutstandingCadet Info.png
+xNavalScienceIVOutstandingCadet Info.png
+lSLF07#2@44"Copy NavalScienceIVOutstandingCadet Info.png304318793#304318794#0(0"0(0#0#83"/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIVOutstandingCadet Info.png8619885920#535"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIVOutstandingCadet Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIVOutstandingCadet.png" NavalScienceIVOutstandingCadet.png
+s304318794.185754
+e304318794.291178
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NavalScienceIVOutstandingCadet.png
+xNavalScienceIVOutstandingCadet.png
+lSLF07#2@39"Copy NavalScienceIVOutstandingCadet.png304318794#304318794#0(0"0(0#0#78"/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIVOutstandingCadet.png8619741088#530"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIVOutstandingCadet.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavyRanks Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NavyRanks Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavyRanks Info.png" "NavyRanks Info.png"
+s304318793.097832
+e304318793.553948
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NavyRanks Info.png
+xNavyRanks Info.png
+lSLF07#2@23"Copy NavyRanks Info.png304318793#304318793#0(0"0(0#0#62"/Users/alexdr/Programming/IPhone/NJROTC App/NavyRanks Info.png8615782560#514"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NavyRanks Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavyRates Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NavyRates Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavyRates Info.png" "NavyRates Info.png"
+s304318793.098506
+e304318793.469527
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NavyRates Info.png
+xNavyRates Info.png
+lSLF07#2@23"Copy NavyRates Info.png304318793#304318793#0(0"0(0#0#62"/Users/alexdr/Programming/IPhone/NJROTC App/NavyRates Info.png8605816224#514"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NavyRates Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavyTerminology Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/NavyTerminology Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/NavyTerminology Info.png" "NavyTerminology Info.png"
+s313888674.047628
+e313888674.793309
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/NavyTerminology Info.png
+xNavyTerminology Info.png
+lSLF07#2@29"Copy NavyTerminology Info.png313888674#313888675#0(0"0(0#0#68"/Users/alexdr/Programming/IPhone/NJROTC App/NavyTerminology Info.png8627775232#520"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/NavyTerminology Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Orienteering Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/Orienteering Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Orienteering Info.png" "Orienteering Info.png"
+s304318793.390411
+e304318793.553372
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Orienteering Info.png
+xOrienteering Info.png
+lSLF07#2@26"Copy Orienteering Info.png304318793#304318793#0(0"0(0#0#65"/Users/alexdr/Programming/IPhone/NJROTC App/Orienteering Info.png8605807136#517"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Orienteering Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Orienteering.png" Orienteering.png
+s304318794.031396
+e304318794.111842
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Orienteering.png
+xOrienteering.png
+lSLF07#2@21"Copy Orienteering.png304318794#304318794#0(0"0(0#0#60"/Users/alexdr/Programming/IPhone/NJROTC App/Orienteering.png8616544800#512"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Orienteering.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Participation Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/Participation Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Participation Info.png" "Participation Info.png"
+s304318793.554168
+e304318793.745888
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Participation Info.png
+xParticipation Info.png
+lSLF07#2@27"Copy Participation Info.png304318793#304318793#0(0"0(0#0#66"/Users/alexdr/Programming/IPhone/NJROTC App/Participation Info.png8612465920#518"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Participation Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Participation.png" Participation.png
+s304318794.113526
+e304318794.186660
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Participation.png
+xParticipation.png
+lSLF07#2@22"Copy Participation.png304318794#304318794#0(0"0(0#0#61"/Users/alexdr/Programming/IPhone/NJROTC App/Participation.png8610054016#513"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Participation.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/PhoneticAlphabet Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/PhoneticAlphabet Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/PhoneticAlphabet Info.png" "PhoneticAlphabet Info.png"
+s313888674.045648
+e313888674.644138
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/PhoneticAlphabet Info.png
+xPhoneticAlphabet Info.png
+lSLF07#2@30"Copy PhoneticAlphabet Info.png313888674#313888675#0(0"0(0#0#69"/Users/alexdr/Programming/IPhone/NJROTC App/PhoneticAlphabet Info.png8614023680#521"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/PhoneticAlphabet Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/PhysicalFitness Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/PhysicalFitness Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/PhysicalFitness Info.png" "PhysicalFitness Info.png"
+s304318793.554952
+e304318793.743199
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/PhysicalFitness Info.png
+xPhysicalFitness Info.png
+lSLF07#2@29"Copy PhysicalFitness Info.png304318793#304318793#0(0"0(0#0#68"/Users/alexdr/Programming/IPhone/NJROTC App/PhysicalFitness Info.png8607470848#520"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/PhysicalFitness Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/PhysicalFitness.png" PhysicalFitness.png
+s304318794.115470
+e304318794.199473
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/PhysicalFitness.png
+xPhysicalFitness.png
+lSLF07#2@24"Copy PhysicalFitness.png304318794#304318794#0(0"0(0#0#63"/Users/alexdr/Programming/IPhone/NJROTC App/PhysicalFitness.png8607404224#515"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/PhysicalFitness.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/President Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/President Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/President Info.png" "President Info.png"
+s304318794.651219
+e304318794.815849
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/President Info.png
+xPresident Info.png
+lSLF07#2@23"Copy President Info.png304318794#304318794#0(0"0(0#0#62"/Users/alexdr/Programming/IPhone/NJROTC App/President Info.png8616191968#514"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/President Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Recruiting Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/Recruiting Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Recruiting Info.png" "Recruiting Info.png"
+s304318793.246346
+e304318793.394134
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Recruiting Info.png
+xRecruiting Info.png
+lSLF07#2@24"Copy Recruiting Info.png304318793#304318793#0(0"0(0#0#63"/Users/alexdr/Programming/IPhone/NJROTC App/Recruiting Info.png8619962272#515"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Recruiting Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Recruiting.png" Recruiting.png
+s304318794.028277
+e304318794.115172
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Recruiting.png
+xRecruiting.png
+lSLF07#2@19"Copy Recruiting.png304318794#304318794#0(0"0(0#0#58"/Users/alexdr/Programming/IPhone/NJROTC App/Recruiting.png8616815104#510"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Recruiting.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/RibbonSelected.png" RibbonSelected.png
+s304318793.095708
+e304318793.246240
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/RibbonSelected.png
+xRibbonSelected.png
+lSLF07#2@23"Copy RibbonSelected.png304318793#304318793#0(0"0(0#0#62"/Users/alexdr/Programming/IPhone/NJROTC App/RibbonSelected.png8616291200#514"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/RibbonSelected.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Rifle.png" Rifle.png
+s304318798.552102
+e304318798.576038
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Rifle.png
+xRifle.png
+lSLF07#2@14"Copy Rifle.png304318798#304318798#0(0"0(0#0#53"/Users/alexdr/Programming/IPhone/NJROTC App/Rifle.png8618750528#505"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Rifle.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/RifleTeam Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/RifleTeam Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/RifleTeam Info.png" "RifleTeam Info.png"
+s304318793.392100
+e304318793.485171
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/RifleTeam Info.png
+xRifleTeam Info.png
+lSLF07#2@23"Copy RifleTeam Info.png304318793#304318793#0(0"0(0#0#62"/Users/alexdr/Programming/IPhone/NJROTC App/RifleTeam Info.png8619415680#514"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/RifleTeam Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/RifleTeam.png" RifleTeam.png
+s304318794.033371
+e304318794.114981
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/RifleTeam.png
+xRifleTeam.png
+lSLF07#2@18"Copy RifleTeam.png304318794#304318794#0(0"0(0#0#57"/Users/alexdr/Programming/IPhone/NJROTC App/RifleTeam.png8616340064#509"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/RifleTeam.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/SeaCruise Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/SeaCruise Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/SeaCruise Info.png" "SeaCruise Info.png"
+s304318793.100552
+e304318793.392001
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/SeaCruise Info.png
+xSeaCruise Info.png
+lSLF07#2@23"Copy SeaCruise Info.png304318793#304318793#0(0"0(0#0#62"/Users/alexdr/Programming/IPhone/NJROTC App/SeaCruise Info.png8618297792#514"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/SeaCruise Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/SeaCruise.png" SeaCruise.png
+s304318794.024595
+e304318794.112121
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/SeaCruise.png
+xSeaCruise.png
+lSLF07#2@18"Copy SeaCruise.png304318794#304318794#0(0"0(0#0#57"/Users/alexdr/Programming/IPhone/NJROTC App/SeaCruise.png8617015360#509"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/SeaCruise.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/SecDef Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/SecDef Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/SecDef Info.png" "SecDef Info.png"
+s304318794.644106
+e304318794.826194
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/SecDef Info.png
+xSecDef Info.png
+lSLF07#2@20"Copy SecDef Info.png304318794#304318794#0(0"0(0#0#59"/Users/alexdr/Programming/IPhone/NJROTC App/SecDef Info.png8617304000#511"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/SecDef Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/SecNavy Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/SecNavy Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/SecNavy Info.png" "SecNavy Info.png"
+s304318794.505841
+e304318794.643832
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/SecNavy Info.png
+xSecNavy Info.png
+lSLF07#2@21"Copy SecNavy Info.png304318794#304318794#0(0"0(0#0#60"/Users/alexdr/Programming/IPhone/NJROTC App/SecNavy Info.png8618334432#512"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/SecNavy Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/SecState Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/SecState Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/SecState Info.png" "SecState Info.png"
+s304318794.647099
+e304318794.815551
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/SecState Info.png
+xSecState Info.png
+lSLF07#2@22"Copy SecState Info.png304318794#304318794#0(0"0(0#0#61"/Users/alexdr/Programming/IPhone/NJROTC App/SecState Info.png8617101184#513"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/SecState Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/SergeantMajor Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/SergeantMajor Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/SergeantMajor Info.png" "SergeantMajor Info.png"
+s304318794.291292
+e304318794.646574
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/SergeantMajor Info.png
+xSergeantMajor Info.png
+lSLF07#2@27"Copy SergeantMajor Info.png304318794#304318794#0(0"0(0#0#66"/Users/alexdr/Programming/IPhone/NJROTC App/SergeantMajor Info.png8616811392#518"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/SergeantMajor Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/Thing.png" Thing.png
+s304318798.550994
+e304318798.631634
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/Thing.png
+xThing.png
+lSLF07#2@14"Copy Thing.png304318798#304318798#0(0"0(0#0#53"/Users/alexdr/Programming/IPhone/NJROTC App/Thing.png8618921536#505"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/Thing.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/TypesOfCommands Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/TypesOfCommands Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/TypesOfCommands Info.png" "TypesOfCommands Info.png"
+s304318798.589993
+e304318798.745330
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/TypesOfCommands Info.png
+xTypesOfCommands Info.png
+lSLF07#2@29"Copy TypesOfCommands Info.png304318798#304318798#0(0"0(0#0#68"/Users/alexdr/Programming/IPhone/NJROTC App/TypesOfCommands Info.png8605902496#520"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/TypesOfCommands Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/UniformComposition Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/UniformComposition Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/UniformComposition Info.png" "UniformComposition Info.png"
+s313888674.051287
+e313888674.725285
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/UniformComposition Info.png
+xUniformComposition Info.png
+lSLF07#2@32"Copy UniformComposition Info.png313888674#313888675#0(0"0(0#0#71"/Users/alexdr/Programming/IPhone/NJROTC App/UniformComposition Info.png8621505408#523"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/UniformComposition Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/UnitService Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/UnitService Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/UnitService Info.png" "UnitService Info.png"
+s304318793.533628
+e304318793.723108
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/UnitService Info.png
+xUnitService Info.png
+lSLF07#2@25"Copy UnitService Info.png304318793#304318793#0(0"0(0#0#64"/Users/alexdr/Programming/IPhone/NJROTC App/UnitService Info.png8616548320#516"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/UnitService Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/UnitService.png" UnitService.png
+s304318794.112241
+e304318794.185637
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/UnitService.png
+xUnitService.png
+lSLF07#2@20"Copy UnitService.png304318794#304318794#0(0"0(0#0#59"/Users/alexdr/Programming/IPhone/NJROTC App/UnitService.png8612266304#511"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/UnitService.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/VicePres Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App Extra Files/Done/VicePres Info.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/VicePres Info.png" "VicePres Info.png"
+s304318794.649324
+e304318794.816291
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/VicePres Info.png
+xVicePres Info.png
+lSLF07#2@22"Copy VicePres Info.png304318794#304318794#0(0"0(0#0#61"/Users/alexdr/Programming/IPhone/NJROTC App/VicePres Info.png8616881248#513"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/VicePres Info.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/button.png" button.png
+s304318798.555931
+e304318798.589881
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/button.png
+xbutton.png
+lSLF07#2@15"Copy button.png304318798#304318798#0(0"0(0#0#54"/Users/alexdr/Programming/IPhone/NJROTC App/button.png8617196864#506"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/button.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/NJROTC App.app/loading.png" loading.png
+s304318798.554042
+e304318798.578125
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/NJROTC App.app/loading.png
+xloading.png
+lSLF07#2@16"Copy loading.png304318798#304318798#0(0"0(0#0#55"/Users/alexdr/Programming/IPhone/NJROTC App/loading.png8618001408#507"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/alexdr/Programming/IPhone/NJROTC App/loading.png" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+
+CGenerateDSYMFile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app.dSYM" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NJROTC App"
+s313954664.457429
+e313954664.752372
+r1
+xGenerateDSYMFile
+x/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app.dSYM
+x/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NJROTC App
+lSLF07#2@136"GenerateDSYMFile "build/Distribution-iphonesimulator/NJROTC App.app.dSYM" "build/Distribution-iphonesimulator/NJROTC App.app/NJROTC App"313954664#313954664#0(0"0(0#0#104"/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NJROTC App8605244096#427"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NJROTC App" -o "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app.dSYM"0#
+
+CLd "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NJROTC App" normal i386
+s313954663.947649
+e313954664.457296
+r1
+xLd
+x/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NJROTC App
+xnormal
+xi386
+lSLF07#2@109"Link /Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NJROTC App313954663#313954664#0(0"0(0#0#0"8611107136#978"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator" "-F/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator" -filelist "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC App.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/NJROTC App"0#
+
+CProcessInfoPlistFile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Info.plist" NJROTC_App-Info.plist
+s304318793.061712
+e304318793.093765
+r1
+xProcessInfoPlistFile
+x/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Info.plist
+xNJROTC_App-Info.plist
+lSLF07#2@29"Process NJROTC_App-Info.plist304318793#304318793#0(0"0(0#0#65"/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_App-Info.plist8617358784#523"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NJROTC_App-Info.plist -genpkginfo "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app/Info.plist"0#
+
+CProcessPCH /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-dkrkcomcfacjoceriqwsygmewjca/NJROTC_App_Prefix.pch.gch NJROTC_App_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304318798.897682
+e304318802.217951
+r1
+xProcessPCH
+x/var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-dkrkcomcfacjoceriqwsygmewjca/NJROTC_App_Prefix.pch.gch
+xNJROTC_App_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile NJROTC_App_Prefix.pch304318798#304318802#0(0"0(0#0#65"/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_App_Prefix.pch8616632480#2017"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-generated-files.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-own-target-headers.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-all-target-headers.hmap" -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/NJROTC App-project-headers.hmap" "-F/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/include" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/DerivedSources/i386" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Distribution-iphonesimulator/NJROTC App.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_App_Prefix.pch" -o /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-dkrkcomcfacjoceriqwsygmewjca/NJROTC_App_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-eolaaidjnhuqmoelqmwfjyixftln/NJROTC_App_Prefix.pch.gch NJROTC_App_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-exzsyfjthkmvbhgqdjlpqblutrrj/NJROTC_App_Prefix.pch.gch NJROTC_App_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"
+s313954664.752472
+e313954664.789922
+r1
+xTouch
+x/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app
+lSLF07#2@99"Touch /Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app313954664#313954664#0(0"0(0#0#0"8609660992#302"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/alexdr/Programming/IPhone/NJROTC App/build/Distribution-iphonesimulator/NJROTC App.app"0#
+

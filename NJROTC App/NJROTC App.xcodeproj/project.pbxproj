@@ -1,0 +1,840 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* NJROTC_AppAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* NJROTC_AppAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		28D7ACF80DDB3853001CB0EB /* NJROTC_AppViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */; };
+		45D9C2191522E1EB00ED7074 /* AcademicAward Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1BE1522E1EB00ED7074 /* AcademicAward Info.png */; };
+		45D9C21A1522E1EB00ED7074 /* AcademicAward.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1BF1522E1EB00ED7074 /* AcademicAward.png */; };
+		45D9C21B1522E1EB00ED7074 /* Aptitude Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1C01522E1EB00ED7074 /* Aptitude Info.png */; };
+		45D9C21C1522E1EB00ED7074 /* Aptitude.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1C11522E1EB00ED7074 /* Aptitude.png */; };
+		45D9C21D1522E1EB00ED7074 /* AwardsAndDecorations Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1C21522E1EB00ED7074 /* AwardsAndDecorations Info.png */; };
+		45D9C21E1522E1EB00ED7074 /* Back Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1C31522E1EB00ED7074 /* Back Button.png */; };
+		45D9C21F1522E1EB00ED7074 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1C41522E1EB00ED7074 /* Background.png */; };
+		45D9C2201522E1EB00ED7074 /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1C51522E1EB00ED7074 /* button.png */; };
+		45D9C2211522E1EB00ED7074 /* CadetAchievement Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1C61522E1EB00ED7074 /* CadetAchievement Info.png */; };
+		45D9C2221522E1EB00ED7074 /* CadetAchievement.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1C71522E1EB00ED7074 /* CadetAchievement.png */; };
+		45D9C2231522E1EB00ED7074 /* Chairman Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1C81522E1EB00ED7074 /* Chairman Info.png */; };
+		45D9C2241522E1EB00ED7074 /* CNO Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1C91522E1EB00ED7074 /* CNO Info.png */; };
+		45D9C2251522E1EB00ED7074 /* ColorGuard Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1CA1522E1EB00ED7074 /* ColorGuard Info.png */; };
+		45D9C2261522E1EB00ED7074 /* ColorGuard.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1CB1522E1EB00ED7074 /* ColorGuard.png */; };
+		45D9C2271522E1EB00ED7074 /* Commandant Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1CC1522E1EB00ED7074 /* Commandant Info.png */; };
+		45D9C2281522E1EB00ED7074 /* CommunityService Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1CD1522E1EB00ED7074 /* CommunityService Info.png */; };
+		45D9C2291522E1EB00ED7074 /* CommunityService.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1CE1522E1EB00ED7074 /* CommunityService.png */; };
+		45D9C22A1522E1EB00ED7074 /* Credits.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1CF1522E1EB00ED7074 /* Credits.png */; };
+		45D9C22B1522E1EB00ED7074 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1D01522E1EB00ED7074 /* Default.png */; };
+		45D9C22C1522E1EB00ED7074 /* DevicePlacement Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1D11522E1EB00ED7074 /* DevicePlacement Info.png */; };
+		45D9C22D1522E1EB00ED7074 /* Director Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1D21522E1EB00ED7074 /* Director Info.png */; };
+		45D9C22E1522E1EB00ED7074 /* DistinguishedCadet Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1D31522E1EB00ED7074 /* DistinguishedCadet Info.png */; };
+		45D9C22F1522E1EB00ED7074 /* DistinguishedCadet.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1D41522E1EB00ED7074 /* DistinguishedCadet.png */; };
+		45D9C2301522E1EB00ED7074 /* DistinguishedUnit Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1D51522E1EB00ED7074 /* DistinguishedUnit Info.png */; };
+		45D9C2311522E1EB00ED7074 /* DistinguishedUnit.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1D61522E1EB00ED7074 /* DistinguishedUnit.png */; };
+		45D9C2321522E1EB00ED7074 /* Drill Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1D71522E1EB00ED7074 /* Drill Info.png */; };
+		45D9C2331522E1EB00ED7074 /* DrillTeam Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1D81522E1EB00ED7074 /* DrillTeam Info.png */; };
+		45D9C2341522E1EB00ED7074 /* DrillTeam.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1D91522E1EB00ED7074 /* DrillTeam.png */; };
+		45D9C2351522E1EB00ED7074 /* ExemplaryConduct Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1DA1522E1EB00ED7074 /* ExemplaryConduct Info.png */; };
+		45D9C2361522E1EB00ED7074 /* ExemplaryConduct.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1DB1522E1EB00ED7074 /* ExemplaryConduct.png */; };
+		45D9C2371522E1EB00ED7074 /* ExemplaryPersonalAppereance Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1DC1522E1EB00ED7074 /* ExemplaryPersonalAppereance Info.png */; };
+		45D9C2381522E1EB00ED7074 /* ExemplaryPersonalAppereance.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1DD1522E1EB00ED7074 /* ExemplaryPersonalAppereance.png */; };
+		45D9C2391522E1EB00ED7074 /* FemaleGrooming Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1DE1522E1EB00ED7074 /* FemaleGrooming Info.png */; };
+		45D9C23A1522E1EB00ED7074 /* Forward Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1DF1522E1EB00ED7074 /* Forward Button.png */; };
+		45D9C23B1522E1EB00ED7074 /* GeneralOrders Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1E01522E1EB00ED7074 /* GeneralOrders Info.png */; };
+		45D9C23C1522E1EB00ED7074 /* HonorCadet Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1E11522E1EB00ED7074 /* HonorCadet Info.png */; };
+		45D9C23D1522E1EB00ED7074 /* HonorCadet.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1E21522E1EB00ED7074 /* HonorCadet.png */; };
+		45D9C23E1522E1EB00ED7074 /* ImportantDates Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1E31522E1EB00ED7074 /* ImportantDates Info.png */; };
+		45D9C23F1522E1EB00ED7074 /* loading.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1E41522E1EB00ED7074 /* loading.png */; };
+		45D9C2401522E1EB00ED7074 /* Main.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1E51522E1EB00ED7074 /* Main.png */; };
+		45D9C2411522E1EB00ED7074 /* MaleGrooming Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1E61522E1EB00ED7074 /* MaleGrooming Info.png */; };
+		45D9C2421522E1EB00ED7074 /* MarineCorpsRanks Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1E71522E1EB00ED7074 /* MarineCorpsRanks Info.png */; };
+		45D9C2431522E1EB00ED7074 /* MarineCorpsRates Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1E81522E1EB00ED7074 /* MarineCorpsRates Info.png */; };
+		45D9C2441522E1EB00ED7074 /* MCPON Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1E91522E1EB00ED7074 /* MCPON Info.png */; };
+		45D9C2451522E1EB00ED7074 /* MeritoriousAchievement Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1EA1522E1EB00ED7074 /* MeritoriousAchievement Info.png */; };
+		45D9C2461522E1EB00ED7074 /* MeritoriousAchievement.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1EB1522E1EB00ED7074 /* MeritoriousAchievement.png */; };
+		45D9C2471522E1EB00ED7074 /* MiniBootCamp Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1EC1522E1EB00ED7074 /* MiniBootCamp Info.png */; };
+		45D9C2481522E1EB00ED7074 /* MiniBootCamp.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1ED1522E1EB00ED7074 /* MiniBootCamp.png */; };
+		45D9C2491522E1EB00ED7074 /* MiscKnowledge Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1EE1522E1EB00ED7074 /* MiscKnowledge Info.png */; };
+		45D9C24A1522E1EB00ED7074 /* NavalScienceIIIOutstandingCadet Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1EF1522E1EB00ED7074 /* NavalScienceIIIOutstandingCadet Info.png */; };
+		45D9C24B1522E1EB00ED7074 /* NavalScienceIIIOutstandingCadet.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1F01522E1EB00ED7074 /* NavalScienceIIIOutstandingCadet.png */; };
+		45D9C24C1522E1EB00ED7074 /* NavalScienceIIOutstandingCadet Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1F11522E1EB00ED7074 /* NavalScienceIIOutstandingCadet Info.png */; };
+		45D9C24D1522E1EB00ED7074 /* NavalScienceIIOutstandingCadet.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1F21522E1EB00ED7074 /* NavalScienceIIOutstandingCadet.png */; };
+		45D9C24E1522E1EB00ED7074 /* NavalScienceIOutstandingCadet Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1F31522E1EB00ED7074 /* NavalScienceIOutstandingCadet Info.png */; };
+		45D9C24F1522E1EB00ED7074 /* NavalScienceIOutstandingCadet.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1F41522E1EB00ED7074 /* NavalScienceIOutstandingCadet.png */; };
+		45D9C2501522E1EB00ED7074 /* NavalScienceIVOutstandingCadet Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1F51522E1EB00ED7074 /* NavalScienceIVOutstandingCadet Info.png */; };
+		45D9C2511522E1EB00ED7074 /* NavalScienceIVOutstandingCadet.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1F61522E1EB00ED7074 /* NavalScienceIVOutstandingCadet.png */; };
+		45D9C2521522E1EB00ED7074 /* NavyRanks Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1F71522E1EB00ED7074 /* NavyRanks Info.png */; };
+		45D9C2531522E1EB00ED7074 /* NavyRates Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1F81522E1EB00ED7074 /* NavyRates Info.png */; };
+		45D9C2541522E1EB00ED7074 /* NavyTerminology Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1F91522E1EB00ED7074 /* NavyTerminology Info.png */; };
+		45D9C2551522E1EB00ED7074 /* NETC Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1FA1522E1EB00ED7074 /* NETC Info.png */; };
+		45D9C2561522E1EB00ED7074 /* NJROTCRanks Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1FB1522E1EB00ED7074 /* NJROTCRanks Info.png */; };
+		45D9C2571522E1EB00ED7074 /* NJROTCRates Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1FC1522E1EB00ED7074 /* NJROTCRates Info.png */; };
+		45D9C2581522E1EB00ED7074 /* NJROTCRates.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1FD1522E1EB00ED7074 /* NJROTCRates.png */; };
+		45D9C2591522E1EB00ED7074 /* NSTC Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1FE1522E1EB00ED7074 /* NSTC Info.png */; };
+		45D9C25A1522E1EB00ED7074 /* Orienteering Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C1FF1522E1EB00ED7074 /* Orienteering Info.png */; };
+		45D9C25B1522E1EB00ED7074 /* Orienteering.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2001522E1EB00ED7074 /* Orienteering.png */; };
+		45D9C25C1522E1EB00ED7074 /* Participation Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2011522E1EB00ED7074 /* Participation Info.png */; };
+		45D9C25D1522E1EB00ED7074 /* Participation.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2021522E1EB00ED7074 /* Participation.png */; };
+		45D9C25E1522E1EB00ED7074 /* PhoneticAlphabet Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2031522E1EB00ED7074 /* PhoneticAlphabet Info.png */; };
+		45D9C25F1522E1EB00ED7074 /* PhysicalFitness Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2041522E1EB00ED7074 /* PhysicalFitness Info.png */; };
+		45D9C2601522E1EB00ED7074 /* PhysicalFitness.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2051522E1EB00ED7074 /* PhysicalFitness.png */; };
+		45D9C2611522E1EB00ED7074 /* President Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2061522E1EB00ED7074 /* President Info.png */; };
+		45D9C2621522E1EB00ED7074 /* Recruiting Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2071522E1EB00ED7074 /* Recruiting Info.png */; };
+		45D9C2631522E1EB00ED7074 /* Recruiting.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2081522E1EB00ED7074 /* Recruiting.png */; };
+		45D9C2641522E1EB00ED7074 /* RibbonSelected.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2091522E1EB00ED7074 /* RibbonSelected.png */; };
+		45D9C2651522E1EB00ED7074 /* Rifle.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C20A1522E1EB00ED7074 /* Rifle.png */; };
+		45D9C2661522E1EB00ED7074 /* RifleTeam Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C20B1522E1EB00ED7074 /* RifleTeam Info.png */; };
+		45D9C2671522E1EB00ED7074 /* RifleTeam.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C20C1522E1EB00ED7074 /* RifleTeam.png */; };
+		45D9C2681522E1EB00ED7074 /* SeaCruise Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C20D1522E1EB00ED7074 /* SeaCruise Info.png */; };
+		45D9C2691522E1EB00ED7074 /* SeaCruise.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C20E1522E1EB00ED7074 /* SeaCruise.png */; };
+		45D9C26A1522E1EB00ED7074 /* SecDef Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C20F1522E1EB00ED7074 /* SecDef Info.png */; };
+		45D9C26B1522E1EB00ED7074 /* SecNavy Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2101522E1EB00ED7074 /* SecNavy Info.png */; };
+		45D9C26C1522E1EB00ED7074 /* SecState Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2111522E1EB00ED7074 /* SecState Info.png */; };
+		45D9C26D1522E1EB00ED7074 /* SergeantMajor Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2121522E1EB00ED7074 /* SergeantMajor Info.png */; };
+		45D9C26E1522E1EB00ED7074 /* Thing.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2131522E1EB00ED7074 /* Thing.png */; };
+		45D9C26F1522E1EB00ED7074 /* TypesOfCommands Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2141522E1EB00ED7074 /* TypesOfCommands Info.png */; };
+		45D9C2701522E1EB00ED7074 /* UniformComposition Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2151522E1EB00ED7074 /* UniformComposition Info.png */; };
+		45D9C2711522E1EB00ED7074 /* UnitService Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2161522E1EB00ED7074 /* UnitService Info.png */; };
+		45D9C2721522E1EB00ED7074 /* UnitService.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2171522E1EB00ED7074 /* UnitService.png */; };
+		45D9C2731522E1EB00ED7074 /* VicePres Info.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D9C2181522E1EB00ED7074 /* VicePres Info.png */; };
+		E81DE32F133BACB4009B0CC4 /* ImportantDates Info.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE32E133BACB4009B0CC4 /* ImportantDates Info.png */; };
+		E81DE331133BACD3009B0CC4 /* DevicePlacement Info.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE330133BACD3009B0CC4 /* DevicePlacement Info.png */; };
+		E81DE333133BACDD009B0CC4 /* TypesOfCommands Info.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE332133BACDD009B0CC4 /* TypesOfCommands Info.png */; };
+		E83B6406131E0DC600EF37F7 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E83B6405131E0DC500EF37F7 /* iAd.framework */; };
+		E863FD09120AD82000236F06 /* Rifle.png in Resources */ = {isa = PBXBuildFile; fileRef = E863FD07120AD82000236F06 /* Rifle.png */; };
+		E863FD0A120AD82000236F06 /* loading.png in Resources */ = {isa = PBXBuildFile; fileRef = E863FD08120AD82000236F06 /* loading.png */; };
+		E8A5510212097E5E0062FE1C /* NJROTC_AppViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E8A550F712097E5E0062FE1C /* NJROTC_AppViewController.xib */; };
+		E8A5510312097E5E0062FE1C /* Forward Button.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A550F812097E5E0062FE1C /* Forward Button.png */; };
+		E8A5510412097E5E0062FE1C /* RibbonSelected.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A550F912097E5E0062FE1C /* RibbonSelected.png */; };
+		E8A5516F12097E7B0062FE1C /* SeaCruise.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5512F12097E7B0062FE1C /* SeaCruise.png */; };
+		E8A5517012097E7B0062FE1C /* MiniBootCamp.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513012097E7B0062FE1C /* MiniBootCamp.png */; };
+		E8A5517112097E7B0062FE1C /* Recruiting.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513112097E7B0062FE1C /* Recruiting.png */; };
+		E8A5517212097E7B0062FE1C /* Orienteering.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513212097E7B0062FE1C /* Orienteering.png */; };
+		E8A5517312097E7B0062FE1C /* RifleTeam.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513312097E7B0062FE1C /* RifleTeam.png */; };
+		E8A5517412097E7B0062FE1C /* ColorGuard.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513412097E7B0062FE1C /* ColorGuard.png */; };
+		E8A5517512097E7B0062FE1C /* DrillTeam.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513512097E7B0062FE1C /* DrillTeam.png */; };
+		E8A5517612097E7B0062FE1C /* CommunityService.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513612097E7B0062FE1C /* CommunityService.png */; };
+		E8A5517712097E7B0062FE1C /* UnitService.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513712097E7B0062FE1C /* UnitService.png */; };
+		E8A5517812097E7B0062FE1C /* Participation.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513812097E7B0062FE1C /* Participation.png */; };
+		E8A5517912097E7B0062FE1C /* PhysicalFitness.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513912097E7B0062FE1C /* PhysicalFitness.png */; };
+		E8A5517A12097E7B0062FE1C /* ExemplaryPersonalAppereance.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513A12097E7B0062FE1C /* ExemplaryPersonalAppereance.png */; };
+		E8A5517B12097E7B0062FE1C /* AcademicAward.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513B12097E7B0062FE1C /* AcademicAward.png */; };
+		E8A5517C12097E7B0062FE1C /* ExemplaryConduct.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513C12097E7B0062FE1C /* ExemplaryConduct.png */; };
+		E8A5517D12097E7B0062FE1C /* NavalScienceIOutstandingCadet.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513D12097E7B0062FE1C /* NavalScienceIOutstandingCadet.png */; };
+		E8A5517E12097E7B0062FE1C /* NavalScienceIIOutstandingCadet.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513E12097E7B0062FE1C /* NavalScienceIIOutstandingCadet.png */; };
+		E8A5517F12097E7B0062FE1C /* NavalScienceIIIOutstandingCadet.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5513F12097E7B0062FE1C /* NavalScienceIIIOutstandingCadet.png */; };
+		E8A5518012097E7B0062FE1C /* NavalScienceIVOutstandingCadet.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5514012097E7B0062FE1C /* NavalScienceIVOutstandingCadet.png */; };
+		E8A5518112097E7B0062FE1C /* Aptitude.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5514112097E7B0062FE1C /* Aptitude.png */; };
+		E8A5518212097E7B0062FE1C /* CadetAchievement.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5514212097E7B0062FE1C /* CadetAchievement.png */; };
+		E8A5518312097E7B0062FE1C /* HonorCadet.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5514312097E7B0062FE1C /* HonorCadet.png */; };
+		E8A5518412097E7B0062FE1C /* DistinguishedCadet.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5514412097E7B0062FE1C /* DistinguishedCadet.png */; };
+		E8A5518512097E7B0062FE1C /* DistinguishedUnit.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5514512097E7B0062FE1C /* DistinguishedUnit.png */; };
+		E8A5518612097E7B0062FE1C /* MeritoriousAchievement.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5514612097E7B0062FE1C /* MeritoriousAchievement.png */; };
+		E8A551A112097E880062FE1C /* Back Button.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A5518712097E880062FE1C /* Back Button.png */; };
+		E8A551E012097E9E0062FE1C /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E8A551DF12097E9E0062FE1C /* RootViewController.xib */; };
+		E8A551E512097EA60062FE1C /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = E8A551E412097EA60062FE1C /* MainWindow.xib */; };
+		E8A551FA12097F6C0062FE1C /* Thing.png in Resources */ = {isa = PBXBuildFile; fileRef = E8A551F912097F6C0062FE1C /* Thing.png */; };
+		E8D706C6120C1859007E7921 /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = E8D706C5120C1859007E7921 /* button.png */; };
+		E8D706FB120C1DFE007E7921 /* Main.png in Resources */ = {isa = PBXBuildFile; fileRef = E8D706FA120C1DFE007E7921 /* Main.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* NJROTC_AppAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJROTC_AppAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* NJROTC_AppAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJROTC_AppAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* NJROTC App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "NJROTC App.app"; path = "/Users/adr2370/Documents/Programming/IPhone/NJROTC App/build/Release-iphoneos/NJROTC App.app"; sourceTree = "<absolute>"; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28D7ACF60DDB3853001CB0EB /* NJROTC_AppViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJROTC_AppViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJROTC_AppViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* NJROTC_App_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJROTC_App_Prefix.pch; sourceTree = "<group>"; };
+		45D9C1BE1522E1EB00ED7074 /* AcademicAward Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AcademicAward Info.png"; sourceTree = "<group>"; };
+		45D9C1BF1522E1EB00ED7074 /* AcademicAward.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AcademicAward.png; sourceTree = "<group>"; };
+		45D9C1C01522E1EB00ED7074 /* Aptitude Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Aptitude Info.png"; sourceTree = "<group>"; };
+		45D9C1C11522E1EB00ED7074 /* Aptitude.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Aptitude.png; sourceTree = "<group>"; };
+		45D9C1C21522E1EB00ED7074 /* AwardsAndDecorations Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AwardsAndDecorations Info.png"; sourceTree = "<group>"; };
+		45D9C1C31522E1EB00ED7074 /* Back Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Back Button.png"; sourceTree = "<group>"; };
+		45D9C1C41522E1EB00ED7074 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Background.png; sourceTree = "<group>"; };
+		45D9C1C51522E1EB00ED7074 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
+		45D9C1C61522E1EB00ED7074 /* CadetAchievement Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CadetAchievement Info.png"; sourceTree = "<group>"; };
+		45D9C1C71522E1EB00ED7074 /* CadetAchievement.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CadetAchievement.png; sourceTree = "<group>"; };
+		45D9C1C81522E1EB00ED7074 /* Chairman Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Chairman Info.png"; sourceTree = "<group>"; };
+		45D9C1C91522E1EB00ED7074 /* CNO Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CNO Info.png"; sourceTree = "<group>"; };
+		45D9C1CA1522E1EB00ED7074 /* ColorGuard Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ColorGuard Info.png"; sourceTree = "<group>"; };
+		45D9C1CB1522E1EB00ED7074 /* ColorGuard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ColorGuard.png; sourceTree = "<group>"; };
+		45D9C1CC1522E1EB00ED7074 /* Commandant Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Commandant Info.png"; sourceTree = "<group>"; };
+		45D9C1CD1522E1EB00ED7074 /* CommunityService Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CommunityService Info.png"; sourceTree = "<group>"; };
+		45D9C1CE1522E1EB00ED7074 /* CommunityService.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CommunityService.png; sourceTree = "<group>"; };
+		45D9C1CF1522E1EB00ED7074 /* Credits.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Credits.png; sourceTree = "<group>"; };
+		45D9C1D01522E1EB00ED7074 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		45D9C1D11522E1EB00ED7074 /* DevicePlacement Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DevicePlacement Info.png"; sourceTree = "<group>"; };
+		45D9C1D21522E1EB00ED7074 /* Director Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Director Info.png"; sourceTree = "<group>"; };
+		45D9C1D31522E1EB00ED7074 /* DistinguishedCadet Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DistinguishedCadet Info.png"; sourceTree = "<group>"; };
+		45D9C1D41522E1EB00ED7074 /* DistinguishedCadet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DistinguishedCadet.png; sourceTree = "<group>"; };
+		45D9C1D51522E1EB00ED7074 /* DistinguishedUnit Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DistinguishedUnit Info.png"; sourceTree = "<group>"; };
+		45D9C1D61522E1EB00ED7074 /* DistinguishedUnit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DistinguishedUnit.png; sourceTree = "<group>"; };
+		45D9C1D71522E1EB00ED7074 /* Drill Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Drill Info.png"; sourceTree = "<group>"; };
+		45D9C1D81522E1EB00ED7074 /* DrillTeam Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DrillTeam Info.png"; sourceTree = "<group>"; };
+		45D9C1D91522E1EB00ED7074 /* DrillTeam.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DrillTeam.png; sourceTree = "<group>"; };
+		45D9C1DA1522E1EB00ED7074 /* ExemplaryConduct Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ExemplaryConduct Info.png"; sourceTree = "<group>"; };
+		45D9C1DB1522E1EB00ED7074 /* ExemplaryConduct.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ExemplaryConduct.png; sourceTree = "<group>"; };
+		45D9C1DC1522E1EB00ED7074 /* ExemplaryPersonalAppereance Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ExemplaryPersonalAppereance Info.png"; sourceTree = "<group>"; };
+		45D9C1DD1522E1EB00ED7074 /* ExemplaryPersonalAppereance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ExemplaryPersonalAppereance.png; sourceTree = "<group>"; };
+		45D9C1DE1522E1EB00ED7074 /* FemaleGrooming Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "FemaleGrooming Info.png"; sourceTree = "<group>"; };
+		45D9C1DF1522E1EB00ED7074 /* Forward Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Forward Button.png"; sourceTree = "<group>"; };
+		45D9C1E01522E1EB00ED7074 /* GeneralOrders Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GeneralOrders Info.png"; sourceTree = "<group>"; };
+		45D9C1E11522E1EB00ED7074 /* HonorCadet Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "HonorCadet Info.png"; sourceTree = "<group>"; };
+		45D9C1E21522E1EB00ED7074 /* HonorCadet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HonorCadet.png; sourceTree = "<group>"; };
+		45D9C1E31522E1EB00ED7074 /* ImportantDates Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ImportantDates Info.png"; sourceTree = "<group>"; };
+		45D9C1E41522E1EB00ED7074 /* loading.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loading.png; sourceTree = "<group>"; };
+		45D9C1E51522E1EB00ED7074 /* Main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Main.png; sourceTree = "<group>"; };
+		45D9C1E61522E1EB00ED7074 /* MaleGrooming Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MaleGrooming Info.png"; sourceTree = "<group>"; };
+		45D9C1E71522E1EB00ED7074 /* MarineCorpsRanks Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MarineCorpsRanks Info.png"; sourceTree = "<group>"; };
+		45D9C1E81522E1EB00ED7074 /* MarineCorpsRates Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MarineCorpsRates Info.png"; sourceTree = "<group>"; };
+		45D9C1E91522E1EB00ED7074 /* MCPON Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MCPON Info.png"; sourceTree = "<group>"; };
+		45D9C1EA1522E1EB00ED7074 /* MeritoriousAchievement Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MeritoriousAchievement Info.png"; sourceTree = "<group>"; };
+		45D9C1EB1522E1EB00ED7074 /* MeritoriousAchievement.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MeritoriousAchievement.png; sourceTree = "<group>"; };
+		45D9C1EC1522E1EB00ED7074 /* MiniBootCamp Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MiniBootCamp Info.png"; sourceTree = "<group>"; };
+		45D9C1ED1522E1EB00ED7074 /* MiniBootCamp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MiniBootCamp.png; sourceTree = "<group>"; };
+		45D9C1EE1522E1EB00ED7074 /* MiscKnowledge Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MiscKnowledge Info.png"; sourceTree = "<group>"; };
+		45D9C1EF1522E1EB00ED7074 /* NavalScienceIIIOutstandingCadet Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NavalScienceIIIOutstandingCadet Info.png"; sourceTree = "<group>"; };
+		45D9C1F01522E1EB00ED7074 /* NavalScienceIIIOutstandingCadet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NavalScienceIIIOutstandingCadet.png; sourceTree = "<group>"; };
+		45D9C1F11522E1EB00ED7074 /* NavalScienceIIOutstandingCadet Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NavalScienceIIOutstandingCadet Info.png"; sourceTree = "<group>"; };
+		45D9C1F21522E1EB00ED7074 /* NavalScienceIIOutstandingCadet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NavalScienceIIOutstandingCadet.png; sourceTree = "<group>"; };
+		45D9C1F31522E1EB00ED7074 /* NavalScienceIOutstandingCadet Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NavalScienceIOutstandingCadet Info.png"; sourceTree = "<group>"; };
+		45D9C1F41522E1EB00ED7074 /* NavalScienceIOutstandingCadet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NavalScienceIOutstandingCadet.png; sourceTree = "<group>"; };
+		45D9C1F51522E1EB00ED7074 /* NavalScienceIVOutstandingCadet Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NavalScienceIVOutstandingCadet Info.png"; sourceTree = "<group>"; };
+		45D9C1F61522E1EB00ED7074 /* NavalScienceIVOutstandingCadet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NavalScienceIVOutstandingCadet.png; sourceTree = "<group>"; };
+		45D9C1F71522E1EB00ED7074 /* NavyRanks Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NavyRanks Info.png"; sourceTree = "<group>"; };
+		45D9C1F81522E1EB00ED7074 /* NavyRates Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NavyRates Info.png"; sourceTree = "<group>"; };
+		45D9C1F91522E1EB00ED7074 /* NavyTerminology Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NavyTerminology Info.png"; sourceTree = "<group>"; };
+		45D9C1FA1522E1EB00ED7074 /* NETC Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NETC Info.png"; sourceTree = "<group>"; };
+		45D9C1FB1522E1EB00ED7074 /* NJROTCRanks Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NJROTCRanks Info.png"; sourceTree = "<group>"; };
+		45D9C1FC1522E1EB00ED7074 /* NJROTCRates Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NJROTCRates Info.png"; sourceTree = "<group>"; };
+		45D9C1FD1522E1EB00ED7074 /* NJROTCRates.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NJROTCRates.png; sourceTree = "<group>"; };
+		45D9C1FE1522E1EB00ED7074 /* NSTC Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NSTC Info.png"; sourceTree = "<group>"; };
+		45D9C1FF1522E1EB00ED7074 /* Orienteering Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Orienteering Info.png"; sourceTree = "<group>"; };
+		45D9C2001522E1EB00ED7074 /* Orienteering.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Orienteering.png; sourceTree = "<group>"; };
+		45D9C2011522E1EB00ED7074 /* Participation Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Participation Info.png"; sourceTree = "<group>"; };
+		45D9C2021522E1EB00ED7074 /* Participation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Participation.png; sourceTree = "<group>"; };
+		45D9C2031522E1EB00ED7074 /* PhoneticAlphabet Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PhoneticAlphabet Info.png"; sourceTree = "<group>"; };
+		45D9C2041522E1EB00ED7074 /* PhysicalFitness Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PhysicalFitness Info.png"; sourceTree = "<group>"; };
+		45D9C2051522E1EB00ED7074 /* PhysicalFitness.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PhysicalFitness.png; sourceTree = "<group>"; };
+		45D9C2061522E1EB00ED7074 /* President Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "President Info.png"; sourceTree = "<group>"; };
+		45D9C2071522E1EB00ED7074 /* Recruiting Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Recruiting Info.png"; sourceTree = "<group>"; };
+		45D9C2081522E1EB00ED7074 /* Recruiting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Recruiting.png; sourceTree = "<group>"; };
+		45D9C2091522E1EB00ED7074 /* RibbonSelected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RibbonSelected.png; sourceTree = "<group>"; };
+		45D9C20A1522E1EB00ED7074 /* Rifle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Rifle.png; sourceTree = "<group>"; };
+		45D9C20B1522E1EB00ED7074 /* RifleTeam Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RifleTeam Info.png"; sourceTree = "<group>"; };
+		45D9C20C1522E1EB00ED7074 /* RifleTeam.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RifleTeam.png; sourceTree = "<group>"; };
+		45D9C20D1522E1EB00ED7074 /* SeaCruise Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SeaCruise Info.png"; sourceTree = "<group>"; };
+		45D9C20E1522E1EB00ED7074 /* SeaCruise.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SeaCruise.png; sourceTree = "<group>"; };
+		45D9C20F1522E1EB00ED7074 /* SecDef Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SecDef Info.png"; sourceTree = "<group>"; };
+		45D9C2101522E1EB00ED7074 /* SecNavy Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SecNavy Info.png"; sourceTree = "<group>"; };
+		45D9C2111522E1EB00ED7074 /* SecState Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SecState Info.png"; sourceTree = "<group>"; };
+		45D9C2121522E1EB00ED7074 /* SergeantMajor Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SergeantMajor Info.png"; sourceTree = "<group>"; };
+		45D9C2131522E1EB00ED7074 /* Thing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Thing.png; sourceTree = "<group>"; };
+		45D9C2141522E1EB00ED7074 /* TypesOfCommands Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TypesOfCommands Info.png"; sourceTree = "<group>"; };
+		45D9C2151522E1EB00ED7074 /* UniformComposition Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UniformComposition Info.png"; sourceTree = "<group>"; };
+		45D9C2161522E1EB00ED7074 /* UnitService Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UnitService Info.png"; sourceTree = "<group>"; };
+		45D9C2171522E1EB00ED7074 /* UnitService.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UnitService.png; sourceTree = "<group>"; };
+		45D9C2181522E1EB00ED7074 /* VicePres Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "VicePres Info.png"; sourceTree = "<group>"; };
+		E81DE32E133BACB4009B0CC4 /* ImportantDates Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ImportantDates Info.png"; sourceTree = "<group>"; };
+		E81DE330133BACD3009B0CC4 /* DevicePlacement Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DevicePlacement Info.png"; sourceTree = "<group>"; };
+		E81DE332133BACDD009B0CC4 /* TypesOfCommands Info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TypesOfCommands Info.png"; sourceTree = "<group>"; };
+		E83B6405131E0DC500EF37F7 /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		E863FD07120AD82000236F06 /* Rifle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Rifle.png; sourceTree = "<group>"; };
+		E863FD08120AD82000236F06 /* loading.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loading.png; sourceTree = "<group>"; };
+		E8A550F712097E5E0062FE1C /* NJROTC_AppViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NJROTC_AppViewController.xib; sourceTree = "<group>"; };
+		E8A550F812097E5E0062FE1C /* Forward Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Forward Button.png"; sourceTree = "<group>"; };
+		E8A550F912097E5E0062FE1C /* RibbonSelected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RibbonSelected.png; sourceTree = "<group>"; };
+		E8A5512F12097E7B0062FE1C /* SeaCruise.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SeaCruise.png; sourceTree = "<group>"; };
+		E8A5513012097E7B0062FE1C /* MiniBootCamp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MiniBootCamp.png; sourceTree = "<group>"; };
+		E8A5513112097E7B0062FE1C /* Recruiting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Recruiting.png; sourceTree = "<group>"; };
+		E8A5513212097E7B0062FE1C /* Orienteering.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Orienteering.png; sourceTree = "<group>"; };
+		E8A5513312097E7B0062FE1C /* RifleTeam.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RifleTeam.png; sourceTree = "<group>"; };
+		E8A5513412097E7B0062FE1C /* ColorGuard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ColorGuard.png; sourceTree = "<group>"; };
+		E8A5513512097E7B0062FE1C /* DrillTeam.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DrillTeam.png; sourceTree = "<group>"; };
+		E8A5513612097E7B0062FE1C /* CommunityService.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CommunityService.png; sourceTree = "<group>"; };
+		E8A5513712097E7B0062FE1C /* UnitService.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UnitService.png; sourceTree = "<group>"; };
+		E8A5513812097E7B0062FE1C /* Participation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Participation.png; sourceTree = "<group>"; };
+		E8A5513912097E7B0062FE1C /* PhysicalFitness.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PhysicalFitness.png; sourceTree = "<group>"; };
+		E8A5513A12097E7B0062FE1C /* ExemplaryPersonalAppereance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ExemplaryPersonalAppereance.png; sourceTree = "<group>"; };
+		E8A5513B12097E7B0062FE1C /* AcademicAward.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AcademicAward.png; sourceTree = "<group>"; };
+		E8A5513C12097E7B0062FE1C /* ExemplaryConduct.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ExemplaryConduct.png; sourceTree = "<group>"; };
+		E8A5513D12097E7B0062FE1C /* NavalScienceIOutstandingCadet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NavalScienceIOutstandingCadet.png; sourceTree = "<group>"; };
+		E8A5513E12097E7B0062FE1C /* NavalScienceIIOutstandingCadet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NavalScienceIIOutstandingCadet.png; sourceTree = "<group>"; };
+		E8A5513F12097E7B0062FE1C /* NavalScienceIIIOutstandingCadet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NavalScienceIIIOutstandingCadet.png; sourceTree = "<group>"; };
+		E8A5514012097E7B0062FE1C /* NavalScienceIVOutstandingCadet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NavalScienceIVOutstandingCadet.png; sourceTree = "<group>"; };
+		E8A5514112097E7B0062FE1C /* Aptitude.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Aptitude.png; sourceTree = "<group>"; };
+		E8A5514212097E7B0062FE1C /* CadetAchievement.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CadetAchievement.png; sourceTree = "<group>"; };
+		E8A5514312097E7B0062FE1C /* HonorCadet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HonorCadet.png; sourceTree = "<group>"; };
+		E8A5514412097E7B0062FE1C /* DistinguishedCadet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DistinguishedCadet.png; sourceTree = "<group>"; };
+		E8A5514512097E7B0062FE1C /* DistinguishedUnit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DistinguishedUnit.png; sourceTree = "<group>"; };
+		E8A5514612097E7B0062FE1C /* MeritoriousAchievement.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MeritoriousAchievement.png; sourceTree = "<group>"; };
+		E8A5518712097E880062FE1C /* Back Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Back Button.png"; sourceTree = "<group>"; };
+		E8A551CC12097E970062FE1C /* NJROTC_App-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "NJROTC_App-Info.plist"; sourceTree = "<group>"; };
+		E8A551DF12097E9E0062FE1C /* RootViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
+		E8A551E412097EA60062FE1C /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		E8A551F912097F6C0062FE1C /* Thing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Thing.png; sourceTree = "<group>"; };
+		E8D706C5120C1859007E7921 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
+		E8D706FA120C1DFE007E7921 /* Main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Main.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				E83B6406131E0DC600EF37F7 /* iAd.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* NJROTC_AppAppDelegate.h */,
+				1D3623250D0F684500981E51 /* NJROTC_AppAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* NJROTC_AppViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* NJROTC_AppViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				E8A550EB12097E3B0062FE1C /* Resources */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* NJROTC_App_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+				E83B6405131E0DC500EF37F7 /* iAd.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E8A550EB12097E3B0062FE1C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E8D706C9120C18B2007E7921 /* Other Pictures */,
+				E8D706C8120C189A007E7921 /* Background or Info Pictures */,
+				E8D706C7120C188F007E7921 /* XIB */,
+				E8A551CC12097E970062FE1C /* NJROTC_App-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		E8D706C7120C188F007E7921 /* XIB */ = {
+			isa = PBXGroup;
+			children = (
+				E8A550F712097E5E0062FE1C /* NJROTC_AppViewController.xib */,
+				E8A551E412097EA60062FE1C /* MainWindow.xib */,
+				E8A551DF12097E9E0062FE1C /* RootViewController.xib */,
+			);
+			name = XIB;
+			sourceTree = "<group>";
+		};
+		E8D706C8120C189A007E7921 /* Background or Info Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				E81DE332133BACDD009B0CC4 /* TypesOfCommands Info.png */,
+				E81DE330133BACD3009B0CC4 /* DevicePlacement Info.png */,
+				E81DE32E133BACB4009B0CC4 /* ImportantDates Info.png */,
+				45D9C1BE1522E1EB00ED7074 /* AcademicAward Info.png */,
+				45D9C1BF1522E1EB00ED7074 /* AcademicAward.png */,
+				45D9C1C01522E1EB00ED7074 /* Aptitude Info.png */,
+				45D9C1C11522E1EB00ED7074 /* Aptitude.png */,
+				45D9C1C21522E1EB00ED7074 /* AwardsAndDecorations Info.png */,
+				45D9C1C31522E1EB00ED7074 /* Back Button.png */,
+				45D9C1C51522E1EB00ED7074 /* button.png */,
+				45D9C1C61522E1EB00ED7074 /* CadetAchievement Info.png */,
+				45D9C1C71522E1EB00ED7074 /* CadetAchievement.png */,
+				45D9C1C81522E1EB00ED7074 /* Chairman Info.png */,
+				45D9C1C91522E1EB00ED7074 /* CNO Info.png */,
+				45D9C1CA1522E1EB00ED7074 /* ColorGuard Info.png */,
+				45D9C1CB1522E1EB00ED7074 /* ColorGuard.png */,
+				45D9C1CC1522E1EB00ED7074 /* Commandant Info.png */,
+				45D9C1CD1522E1EB00ED7074 /* CommunityService Info.png */,
+				45D9C1CE1522E1EB00ED7074 /* CommunityService.png */,
+				45D9C1CF1522E1EB00ED7074 /* Credits.png */,
+				45D9C1D01522E1EB00ED7074 /* Default.png */,
+				45D9C1D11522E1EB00ED7074 /* DevicePlacement Info.png */,
+				45D9C1D21522E1EB00ED7074 /* Director Info.png */,
+				45D9C1D31522E1EB00ED7074 /* DistinguishedCadet Info.png */,
+				45D9C1D41522E1EB00ED7074 /* DistinguishedCadet.png */,
+				45D9C1D51522E1EB00ED7074 /* DistinguishedUnit Info.png */,
+				45D9C1D61522E1EB00ED7074 /* DistinguishedUnit.png */,
+				45D9C1D71522E1EB00ED7074 /* Drill Info.png */,
+				45D9C1D81522E1EB00ED7074 /* DrillTeam Info.png */,
+				45D9C1D91522E1EB00ED7074 /* DrillTeam.png */,
+				45D9C1DA1522E1EB00ED7074 /* ExemplaryConduct Info.png */,
+				45D9C1DB1522E1EB00ED7074 /* ExemplaryConduct.png */,
+				45D9C1DC1522E1EB00ED7074 /* ExemplaryPersonalAppereance Info.png */,
+				45D9C1DD1522E1EB00ED7074 /* ExemplaryPersonalAppereance.png */,
+				45D9C1DE1522E1EB00ED7074 /* FemaleGrooming Info.png */,
+				45D9C1DF1522E1EB00ED7074 /* Forward Button.png */,
+				45D9C1E01522E1EB00ED7074 /* GeneralOrders Info.png */,
+				45D9C1E11522E1EB00ED7074 /* HonorCadet Info.png */,
+				45D9C1E21522E1EB00ED7074 /* HonorCadet.png */,
+				45D9C1E31522E1EB00ED7074 /* ImportantDates Info.png */,
+				45D9C1E41522E1EB00ED7074 /* loading.png */,
+				45D9C1E51522E1EB00ED7074 /* Main.png */,
+				45D9C1E61522E1EB00ED7074 /* MaleGrooming Info.png */,
+				45D9C1E71522E1EB00ED7074 /* MarineCorpsRanks Info.png */,
+				45D9C1E81522E1EB00ED7074 /* MarineCorpsRates Info.png */,
+				45D9C1E91522E1EB00ED7074 /* MCPON Info.png */,
+				45D9C1EA1522E1EB00ED7074 /* MeritoriousAchievement Info.png */,
+				45D9C1EB1522E1EB00ED7074 /* MeritoriousAchievement.png */,
+				45D9C1EC1522E1EB00ED7074 /* MiniBootCamp Info.png */,
+				45D9C1ED1522E1EB00ED7074 /* MiniBootCamp.png */,
+				45D9C1EE1522E1EB00ED7074 /* MiscKnowledge Info.png */,
+				45D9C1EF1522E1EB00ED7074 /* NavalScienceIIIOutstandingCadet Info.png */,
+				45D9C1F01522E1EB00ED7074 /* NavalScienceIIIOutstandingCadet.png */,
+				45D9C1F11522E1EB00ED7074 /* NavalScienceIIOutstandingCadet Info.png */,
+				45D9C1F21522E1EB00ED7074 /* NavalScienceIIOutstandingCadet.png */,
+				45D9C1F31522E1EB00ED7074 /* NavalScienceIOutstandingCadet Info.png */,
+				45D9C1F41522E1EB00ED7074 /* NavalScienceIOutstandingCadet.png */,
+				45D9C1F51522E1EB00ED7074 /* NavalScienceIVOutstandingCadet Info.png */,
+				45D9C1F61522E1EB00ED7074 /* NavalScienceIVOutstandingCadet.png */,
+				45D9C1F71522E1EB00ED7074 /* NavyRanks Info.png */,
+				45D9C1F81522E1EB00ED7074 /* NavyRates Info.png */,
+				45D9C1F91522E1EB00ED7074 /* NavyTerminology Info.png */,
+				45D9C1FA1522E1EB00ED7074 /* NETC Info.png */,
+				45D9C1FB1522E1EB00ED7074 /* NJROTCRanks Info.png */,
+				45D9C1FC1522E1EB00ED7074 /* NJROTCRates Info.png */,
+				45D9C1FD1522E1EB00ED7074 /* NJROTCRates.png */,
+				45D9C1FE1522E1EB00ED7074 /* NSTC Info.png */,
+				45D9C1FF1522E1EB00ED7074 /* Orienteering Info.png */,
+				45D9C2001522E1EB00ED7074 /* Orienteering.png */,
+				45D9C2011522E1EB00ED7074 /* Participation Info.png */,
+				45D9C2021522E1EB00ED7074 /* Participation.png */,
+				45D9C2031522E1EB00ED7074 /* PhoneticAlphabet Info.png */,
+				45D9C2041522E1EB00ED7074 /* PhysicalFitness Info.png */,
+				45D9C2051522E1EB00ED7074 /* PhysicalFitness.png */,
+				45D9C2061522E1EB00ED7074 /* President Info.png */,
+				45D9C2071522E1EB00ED7074 /* Recruiting Info.png */,
+				45D9C2081522E1EB00ED7074 /* Recruiting.png */,
+				45D9C2091522E1EB00ED7074 /* RibbonSelected.png */,
+				45D9C20A1522E1EB00ED7074 /* Rifle.png */,
+				45D9C20B1522E1EB00ED7074 /* RifleTeam Info.png */,
+				45D9C20C1522E1EB00ED7074 /* RifleTeam.png */,
+				45D9C20D1522E1EB00ED7074 /* SeaCruise Info.png */,
+				45D9C20E1522E1EB00ED7074 /* SeaCruise.png */,
+				45D9C20F1522E1EB00ED7074 /* SecDef Info.png */,
+				45D9C2101522E1EB00ED7074 /* SecNavy Info.png */,
+				45D9C2111522E1EB00ED7074 /* SecState Info.png */,
+				45D9C2121522E1EB00ED7074 /* SergeantMajor Info.png */,
+				45D9C2131522E1EB00ED7074 /* Thing.png */,
+				45D9C2141522E1EB00ED7074 /* TypesOfCommands Info.png */,
+				45D9C2151522E1EB00ED7074 /* UniformComposition Info.png */,
+				45D9C2161522E1EB00ED7074 /* UnitService Info.png */,
+				45D9C2171522E1EB00ED7074 /* UnitService.png */,
+				45D9C2181522E1EB00ED7074 /* VicePres Info.png */,
+			);
+			name = "Background or Info Pictures";
+			sourceTree = "<group>";
+		};
+		E8D706C9120C18B2007E7921 /* Other Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				45D9C1C41522E1EB00ED7074 /* Background.png */,
+				E8D706FA120C1DFE007E7921 /* Main.png */,
+				E8A550F812097E5E0062FE1C /* Forward Button.png */,
+				E8A550F912097E5E0062FE1C /* RibbonSelected.png */,
+				E8D706CB120C1933007E7921 /* Ribbons */,
+				E8A5518712097E880062FE1C /* Back Button.png */,
+				E8D706C5120C1859007E7921 /* button.png */,
+				E863FD07120AD82000236F06 /* Rifle.png */,
+				E863FD08120AD82000236F06 /* loading.png */,
+				E8A551F912097F6C0062FE1C /* Thing.png */,
+			);
+			name = "Other Pictures";
+			sourceTree = "<group>";
+		};
+		E8D706CB120C1933007E7921 /* Ribbons */ = {
+			isa = PBXGroup;
+			children = (
+				E8A5512F12097E7B0062FE1C /* SeaCruise.png */,
+				E8A5513012097E7B0062FE1C /* MiniBootCamp.png */,
+				E8A5513112097E7B0062FE1C /* Recruiting.png */,
+				E8A5513212097E7B0062FE1C /* Orienteering.png */,
+				E8A5513312097E7B0062FE1C /* RifleTeam.png */,
+				E8A5513412097E7B0062FE1C /* ColorGuard.png */,
+				E8A5513512097E7B0062FE1C /* DrillTeam.png */,
+				E8A5513612097E7B0062FE1C /* CommunityService.png */,
+				E8A5513712097E7B0062FE1C /* UnitService.png */,
+				E8A5513812097E7B0062FE1C /* Participation.png */,
+				E8A5513912097E7B0062FE1C /* PhysicalFitness.png */,
+				E8A5513A12097E7B0062FE1C /* ExemplaryPersonalAppereance.png */,
+				E8A5513B12097E7B0062FE1C /* AcademicAward.png */,
+				E8A5513C12097E7B0062FE1C /* ExemplaryConduct.png */,
+				E8A5513D12097E7B0062FE1C /* NavalScienceIOutstandingCadet.png */,
+				E8A5513E12097E7B0062FE1C /* NavalScienceIIOutstandingCadet.png */,
+				E8A5513F12097E7B0062FE1C /* NavalScienceIIIOutstandingCadet.png */,
+				E8A5514012097E7B0062FE1C /* NavalScienceIVOutstandingCadet.png */,
+				E8A5514112097E7B0062FE1C /* Aptitude.png */,
+				E8A5514212097E7B0062FE1C /* CadetAchievement.png */,
+				E8A5514312097E7B0062FE1C /* HonorCadet.png */,
+				E8A5514412097E7B0062FE1C /* DistinguishedCadet.png */,
+				E8A5514512097E7B0062FE1C /* DistinguishedUnit.png */,
+				E8A5514612097E7B0062FE1C /* MeritoriousAchievement.png */,
+			);
+			name = Ribbons;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* NJROTC App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "NJROTC App" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "NJROTC App";
+			productName = "NJROTC App";
+			productReference = 1D6058910D05DD3D006BFB54 /* NJROTC App.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = Tryad;
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "NJROTC App" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* NJROTC App */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E8A5510212097E5E0062FE1C /* NJROTC_AppViewController.xib in Resources */,
+				E8A5510312097E5E0062FE1C /* Forward Button.png in Resources */,
+				E8A5510412097E5E0062FE1C /* RibbonSelected.png in Resources */,
+				E8A5516F12097E7B0062FE1C /* SeaCruise.png in Resources */,
+				E8A5517012097E7B0062FE1C /* MiniBootCamp.png in Resources */,
+				E8A5517112097E7B0062FE1C /* Recruiting.png in Resources */,
+				E8A5517212097E7B0062FE1C /* Orienteering.png in Resources */,
+				E8A5517312097E7B0062FE1C /* RifleTeam.png in Resources */,
+				E8A5517412097E7B0062FE1C /* ColorGuard.png in Resources */,
+				E8A5517512097E7B0062FE1C /* DrillTeam.png in Resources */,
+				E8A5517612097E7B0062FE1C /* CommunityService.png in Resources */,
+				E8A5517712097E7B0062FE1C /* UnitService.png in Resources */,
+				E8A5517812097E7B0062FE1C /* Participation.png in Resources */,
+				E8A5517912097E7B0062FE1C /* PhysicalFitness.png in Resources */,
+				E8A5517A12097E7B0062FE1C /* ExemplaryPersonalAppereance.png in Resources */,
+				E8A5517B12097E7B0062FE1C /* AcademicAward.png in Resources */,
+				E8A5517C12097E7B0062FE1C /* ExemplaryConduct.png in Resources */,
+				E8A5517D12097E7B0062FE1C /* NavalScienceIOutstandingCadet.png in Resources */,
+				E8A5517E12097E7B0062FE1C /* NavalScienceIIOutstandingCadet.png in Resources */,
+				E8A5517F12097E7B0062FE1C /* NavalScienceIIIOutstandingCadet.png in Resources */,
+				E8A5518012097E7B0062FE1C /* NavalScienceIVOutstandingCadet.png in Resources */,
+				E8A5518112097E7B0062FE1C /* Aptitude.png in Resources */,
+				E8A5518212097E7B0062FE1C /* CadetAchievement.png in Resources */,
+				E8A5518312097E7B0062FE1C /* HonorCadet.png in Resources */,
+				E8A5518412097E7B0062FE1C /* DistinguishedCadet.png in Resources */,
+				E8A5518512097E7B0062FE1C /* DistinguishedUnit.png in Resources */,
+				E8A5518612097E7B0062FE1C /* MeritoriousAchievement.png in Resources */,
+				E8A551A112097E880062FE1C /* Back Button.png in Resources */,
+				E8A551E012097E9E0062FE1C /* RootViewController.xib in Resources */,
+				E8A551E512097EA60062FE1C /* MainWindow.xib in Resources */,
+				E8A551FA12097F6C0062FE1C /* Thing.png in Resources */,
+				E863FD09120AD82000236F06 /* Rifle.png in Resources */,
+				E863FD0A120AD82000236F06 /* loading.png in Resources */,
+				E8D706C6120C1859007E7921 /* button.png in Resources */,
+				E8D706FB120C1DFE007E7921 /* Main.png in Resources */,
+				E81DE32F133BACB4009B0CC4 /* ImportantDates Info.png in Resources */,
+				E81DE331133BACD3009B0CC4 /* DevicePlacement Info.png in Resources */,
+				E81DE333133BACDD009B0CC4 /* TypesOfCommands Info.png in Resources */,
+				45D9C2191522E1EB00ED7074 /* AcademicAward Info.png in Resources */,
+				45D9C21A1522E1EB00ED7074 /* AcademicAward.png in Resources */,
+				45D9C21B1522E1EB00ED7074 /* Aptitude Info.png in Resources */,
+				45D9C21C1522E1EB00ED7074 /* Aptitude.png in Resources */,
+				45D9C21D1522E1EB00ED7074 /* AwardsAndDecorations Info.png in Resources */,
+				45D9C21E1522E1EB00ED7074 /* Back Button.png in Resources */,
+				45D9C21F1522E1EB00ED7074 /* Background.png in Resources */,
+				45D9C2201522E1EB00ED7074 /* button.png in Resources */,
+				45D9C2211522E1EB00ED7074 /* CadetAchievement Info.png in Resources */,
+				45D9C2221522E1EB00ED7074 /* CadetAchievement.png in Resources */,
+				45D9C2231522E1EB00ED7074 /* Chairman Info.png in Resources */,
+				45D9C2241522E1EB00ED7074 /* CNO Info.png in Resources */,
+				45D9C2251522E1EB00ED7074 /* ColorGuard Info.png in Resources */,
+				45D9C2261522E1EB00ED7074 /* ColorGuard.png in Resources */,
+				45D9C2271522E1EB00ED7074 /* Commandant Info.png in Resources */,
+				45D9C2281522E1EB00ED7074 /* CommunityService Info.png in Resources */,
+				45D9C2291522E1EB00ED7074 /* CommunityService.png in Resources */,
+				45D9C22A1522E1EB00ED7074 /* Credits.png in Resources */,
+				45D9C22B1522E1EB00ED7074 /* Default.png in Resources */,
+				45D9C22C1522E1EB00ED7074 /* DevicePlacement Info.png in Resources */,
+				45D9C22D1522E1EB00ED7074 /* Director Info.png in Resources */,
+				45D9C22E1522E1EB00ED7074 /* DistinguishedCadet Info.png in Resources */,
+				45D9C22F1522E1EB00ED7074 /* DistinguishedCadet.png in Resources */,
+				45D9C2301522E1EB00ED7074 /* DistinguishedUnit Info.png in Resources */,
+				45D9C2311522E1EB00ED7074 /* DistinguishedUnit.png in Resources */,
+				45D9C2321522E1EB00ED7074 /* Drill Info.png in Resources */,
+				45D9C2331522E1EB00ED7074 /* DrillTeam Info.png in Resources */,
+				45D9C2341522E1EB00ED7074 /* DrillTeam.png in Resources */,
+				45D9C2351522E1EB00ED7074 /* ExemplaryConduct Info.png in Resources */,
+				45D9C2361522E1EB00ED7074 /* ExemplaryConduct.png in Resources */,
+				45D9C2371522E1EB00ED7074 /* ExemplaryPersonalAppereance Info.png in Resources */,
+				45D9C2381522E1EB00ED7074 /* ExemplaryPersonalAppereance.png in Resources */,
+				45D9C2391522E1EB00ED7074 /* FemaleGrooming Info.png in Resources */,
+				45D9C23A1522E1EB00ED7074 /* Forward Button.png in Resources */,
+				45D9C23B1522E1EB00ED7074 /* GeneralOrders Info.png in Resources */,
+				45D9C23C1522E1EB00ED7074 /* HonorCadet Info.png in Resources */,
+				45D9C23D1522E1EB00ED7074 /* HonorCadet.png in Resources */,
+				45D9C23E1522E1EB00ED7074 /* ImportantDates Info.png in Resources */,
+				45D9C23F1522E1EB00ED7074 /* loading.png in Resources */,
+				45D9C2401522E1EB00ED7074 /* Main.png in Resources */,
+				45D9C2411522E1EB00ED7074 /* MaleGrooming Info.png in Resources */,
+				45D9C2421522E1EB00ED7074 /* MarineCorpsRanks Info.png in Resources */,
+				45D9C2431522E1EB00ED7074 /* MarineCorpsRates Info.png in Resources */,
+				45D9C2441522E1EB00ED7074 /* MCPON Info.png in Resources */,
+				45D9C2451522E1EB00ED7074 /* MeritoriousAchievement Info.png in Resources */,
+				45D9C2461522E1EB00ED7074 /* MeritoriousAchievement.png in Resources */,
+				45D9C2471522E1EB00ED7074 /* MiniBootCamp Info.png in Resources */,
+				45D9C2481522E1EB00ED7074 /* MiniBootCamp.png in Resources */,
+				45D9C2491522E1EB00ED7074 /* MiscKnowledge Info.png in Resources */,
+				45D9C24A1522E1EB00ED7074 /* NavalScienceIIIOutstandingCadet Info.png in Resources */,
+				45D9C24B1522E1EB00ED7074 /* NavalScienceIIIOutstandingCadet.png in Resources */,
+				45D9C24C1522E1EB00ED7074 /* NavalScienceIIOutstandingCadet Info.png in Resources */,
+				45D9C24D1522E1EB00ED7074 /* NavalScienceIIOutstandingCadet.png in Resources */,
+				45D9C24E1522E1EB00ED7074 /* NavalScienceIOutstandingCadet Info.png in Resources */,
+				45D9C24F1522E1EB00ED7074 /* NavalScienceIOutstandingCadet.png in Resources */,
+				45D9C2501522E1EB00ED7074 /* NavalScienceIVOutstandingCadet Info.png in Resources */,
+				45D9C2511522E1EB00ED7074 /* NavalScienceIVOutstandingCadet.png in Resources */,
+				45D9C2521522E1EB00ED7074 /* NavyRanks Info.png in Resources */,
+				45D9C2531522E1EB00ED7074 /* NavyRates Info.png in Resources */,
+				45D9C2541522E1EB00ED7074 /* NavyTerminology Info.png in Resources */,
+				45D9C2551522E1EB00ED7074 /* NETC Info.png in Resources */,
+				45D9C2561522E1EB00ED7074 /* NJROTCRanks Info.png in Resources */,
+				45D9C2571522E1EB00ED7074 /* NJROTCRates Info.png in Resources */,
+				45D9C2581522E1EB00ED7074 /* NJROTCRates.png in Resources */,
+				45D9C2591522E1EB00ED7074 /* NSTC Info.png in Resources */,
+				45D9C25A1522E1EB00ED7074 /* Orienteering Info.png in Resources */,
+				45D9C25B1522E1EB00ED7074 /* Orienteering.png in Resources */,
+				45D9C25C1522E1EB00ED7074 /* Participation Info.png in Resources */,
+				45D9C25D1522E1EB00ED7074 /* Participation.png in Resources */,
+				45D9C25E1522E1EB00ED7074 /* PhoneticAlphabet Info.png in Resources */,
+				45D9C25F1522E1EB00ED7074 /* PhysicalFitness Info.png in Resources */,
+				45D9C2601522E1EB00ED7074 /* PhysicalFitness.png in Resources */,
+				45D9C2611522E1EB00ED7074 /* President Info.png in Resources */,
+				45D9C2621522E1EB00ED7074 /* Recruiting Info.png in Resources */,
+				45D9C2631522E1EB00ED7074 /* Recruiting.png in Resources */,
+				45D9C2641522E1EB00ED7074 /* RibbonSelected.png in Resources */,
+				45D9C2651522E1EB00ED7074 /* Rifle.png in Resources */,
+				45D9C2661522E1EB00ED7074 /* RifleTeam Info.png in Resources */,
+				45D9C2671522E1EB00ED7074 /* RifleTeam.png in Resources */,
+				45D9C2681522E1EB00ED7074 /* SeaCruise Info.png in Resources */,
+				45D9C2691522E1EB00ED7074 /* SeaCruise.png in Resources */,
+				45D9C26A1522E1EB00ED7074 /* SecDef Info.png in Resources */,
+				45D9C26B1522E1EB00ED7074 /* SecNavy Info.png in Resources */,
+				45D9C26C1522E1EB00ED7074 /* SecState Info.png in Resources */,
+				45D9C26D1522E1EB00ED7074 /* SergeantMajor Info.png in Resources */,
+				45D9C26E1522E1EB00ED7074 /* Thing.png in Resources */,
+				45D9C26F1522E1EB00ED7074 /* TypesOfCommands Info.png in Resources */,
+				45D9C2701522E1EB00ED7074 /* UniformComposition Info.png in Resources */,
+				45D9C2711522E1EB00ED7074 /* UnitService Info.png in Resources */,
+				45D9C2721522E1EB00ED7074 /* UnitService.png in Resources */,
+				45D9C2731522E1EB00ED7074 /* VicePres Info.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* NJROTC_AppAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* NJROTC_AppViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = NJROTC_App_Prefix.pch;
+				INFOPLIST_FILE = "NJROTC_App-Info.plist";
+				PRODUCT_NAME = "NJROTC App";
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = NJROTC_App_Prefix.pch;
+				INFOPLIST_FILE = "NJROTC_App-Info.plist";
+				PRODUCT_NAME = "NJROTC App";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		E8B6AF80121407EB007EA61A /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+			};
+			name = Distribution;
+		};
+		E8B6AF81121407EB007EA61A /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = NJROTC_App_Prefix.pch;
+				INFOPLIST_FILE = "NJROTC_App-Info.plist";
+				PRODUCT_NAME = "NJROTC App";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Distribution;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "NJROTC App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				E8B6AF81121407EB007EA61A /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "NJROTC App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				E8B6AF80121407EB007EA61A /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

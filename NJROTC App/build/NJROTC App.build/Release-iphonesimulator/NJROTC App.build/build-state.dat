@@ -1,0 +1,1258 @@
+TNJROTC App
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/AcademicAward Info.png
+c000000004C5D62D20000000000012526
+t1281188562
+s75046
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/AcademicAward.png
+c000000004C57FD180000000000000E21
+t1280834840
+s3617
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Aptitude Info.png
+c000000004C5D56BA000000000000F3DD
+t1281185466
+s62429
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Aptitude.png
+c000000004C57FCEE0000000000001237
+t1280834798
+s4663
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/AwardsAndDecorations Info.png
+c000000004C5FE6C4000000000000B81B
+t1281353412
+s47131
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Back Button.png
+c000000004C5C43790000000000003C32
+t1281115001
+s15410
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Background.png
+c000000004C5BE039000000000000FFA1
+t1281089593
+s65441
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/CNO Info.png
+c000000004C5D3FBA000000000001E11A
+t1281179578
+s123162
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/CadetAchievement Info.png
+c000000004C5D565E000000000000E64A
+t1281185374
+s58954
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/CadetAchievement.png
+c000000004C57FCD20000000000000E7C
+t1280834770
+s3708
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Chairman Info.png
+c000000004C5D4071000000000001C3C0
+t1281179761
+s115648
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.h
+c000000004C73582400000000000001F4
+t1282627620
+s500
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m
+c000000004C63816F0000000000000AD3
+t1281589615
+s2771
+i"NJROTC_AppAppDelegate.h"
+i"NJROTC_AppViewController.h"
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.h
+c000000004D054F110000000000003909
+t1292193553
+s14601
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m
+c000000004D0659D000000000000162E2
+t1292261840
+s90850
+i"NJROTC_AppViewController.h"
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/ColorGuard Info.png
+c000000004C5D5CF9000000000000F1CC
+t1281187065
+s61900
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/ColorGuard.png
+c000000004C57FD5E00000000000011EF
+t1280834910
+s4591
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Commandant Info.png
+c000000004D055328000000000001C000
+t1292194600
+s114688
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/CommunityService Info.png
+c000000004C5D5C2F000000000000FF88
+t1281186863
+s65416
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/CommunityService.png
+c000000004C57FD320000000000001179
+t1280834866
+s4473
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Credits.png
+c000000004C601B400000000000015242
+t1281366848
+s86594
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Default.png
+c000000004C5AAD6D0000000000005E16
+t1281011053
+s24086
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/DevicePlacement Info.png
+c000000004D0552760000000000037E00
+t1292194422
+s228864
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Director Info.png
+c000000004C5D4D08000000000001B5B6
+t1281182984
+s112054
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedCadet Info.png
+c000000004C5D559B000000000000E87B
+t1281185179
+s59515
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedCadet.png
+c000000004C57FCC20000000000000E9E
+t1280834754
+s3742
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedUnit Info.png
+c000000004C5D5520000000000000E627
+t1281185056
+s58919
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/DistinguishedUnit.png
+c000000004C57FCB80000000000001020
+t1280834744
+s4128
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Drill Info.png
+c000000004C5FEEDF000000000000F389
+t1281355487
+s62345
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/DrillTeam Info.png
+c000000004C5D5CA2000000000000E225
+t1281186978
+s57893
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/DrillTeam.png
+c000000004C57FD360000000000000E7C
+t1280834870
+s3708
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryConduct Info.png
+c000000004C5D58D7000000000000DCCE
+t1281186007
+s56526
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryConduct.png
+c000000004C57FD130000000000001039
+t1280834835
+s4153
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryPersonalAppereance Info.png
+c000000004C5D5A1C000000000000D55E
+t1281186332
+s54622
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/ExemplaryPersonalAppereance.png
+c000000004C57FD1E0000000000000E14
+t1280834846
+s3604
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/FemaleGrooming Info.png
+c000000004D0552760000000000032200
+t1292194422
+s205312
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Forward Button.png
+c000000004C5C43A90000000000003545
+t1281115049
+s13637
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/GeneralOrders Info.png
+c000000004D0552760000000000064000
+t1292194422
+s409600
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/HonorCadet Info.png
+c000000004C5D5601000000000000D312
+t1281185281
+s54034
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/HonorCadet.png
+c000000004C57FCC90000000000000CBA
+t1280834761
+s3258
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/ImportantDates Info.png
+c000000004C5FFBC9000000000000AA10
+t1281358793
+s43536
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MCPON Info.png
+c000000004C5D43FD000000000001F707
+t1281180669
+s128775
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Main.png
+c000000004C612855000000000007A301
+t1281435733
+s500481
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MainWindow.xib
+c000000004C6380F4000000000000447A
+t1281589492
+s17530
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MaleGrooming Info.png
+c000000004D0552760000000000030A00
+t1292194422
+s199168
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MarineCorpsRanks Info.png
+c000000004C5E9BF700000000000157CB
+t1281268727
+s88011
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MarineCorpsRates Info.png
+c000000004C5E53BD0000000000015CF2
+t1281250237
+s89330
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MeritoriousAchievement Info.png
+c000000004C5D553E0000000000010292
+t1281185086
+s66194
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MeritoriousAchievement.png
+c000000004C57FCA90000000000001213
+t1280834729
+s4627
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MiniBootCamp Info.png
+c000000004C5D5E57000000000000EEFC
+t1281187415
+s61180
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MiniBootCamp.png
+c000000004C57FD78000000000000107E
+t1280834936
+s4222
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MiscKnowledge Info.png
+c000000004D0552760000000000039600
+t1292194422
+s235008
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NETC Info.png
+c000000004C5D4BDA000000000001C971
+t1281182682
+s117105
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NJROTCRanks Info.png
+c000000004C5FCEB60000000000010237
+t1281347254
+s66103
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NJROTCRates Info.png
+c000000004C5FCEAB000000000001399B
+t1281347243
+s80283
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_AppViewController.xib
+c000000004D0654FF0000000000039D4D
+t1292260607
+s236877
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_App_Prefix.pch
+c000000004C5657F000000000000000BD
+t1280727024
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NSTC Info.png
+c000000004D0553280000000000026C00
+t1292194600
+s158720
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIIOutstandingCadet Info.png
+c000000004C5D57DE000000000000E967
+t1281185758
+s59751
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIIOutstandingCadet.png
+c000000004C57FD03000000000000108B
+t1280834819
+s4235
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIOutstandingCadet Info.png
+c000000004C5D581A000000000000E2A0
+t1281185818
+s58016
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIIOutstandingCadet.png
+c000000004C57FD080000000000000F79
+t1280834824
+s3961
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIOutstandingCadet Info.png
+c000000004C5D5868000000000000D7C3
+t1281185896
+s55235
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIOutstandingCadet.png
+c000000004C57FD0E0000000000000DD4
+t1280834830
+s3540
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIVOutstandingCadet Info.png
+c000000004C5D572F000000000000EFB6
+t1281185583
+s61366
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavalScienceIVOutstandingCadet.png
+c000000004C57FCFC0000000000001161
+t1280834812
+s4449
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavyRanks Info.png
+c000000004C5E97830000000000014608
+t1281267587
+s83464
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavyRates Info.png
+c000000004C5D6DEE0000000000014AD3
+t1281191406
+s84691
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NavyTerminology Info.png
+c000000004D0552760000000000027800
+t1292194422
+s161792
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Orienteering Info.png
+c000000004C5D5DA1000000000000E08C
+t1281187233
+s57484
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Orienteering.png
+c000000004C57FD6F0000000000000E06
+t1280834927
+s3590
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Participation Info.png
+c000000004C5D5B74000000000000EF02
+t1281186676
+s61186
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Participation.png
+c000000004C57FD2A00000000000011AB
+t1280834858
+s4523
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/PhoneticAlphabet Info.png
+c000000004D0552760000000000029400
+t1292194422
+s168960
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/PhysicalFitness Info.png
+c000000004C5D5B10000000000000FD1A
+t1281186576
+s64794
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/PhysicalFitness.png
+c000000004C57FD250000000000000EFA
+t1280834853
+s3834
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/President Info.png
+c000000004C5D2D7C000000000001A7DD
+t1281174908
+s108509
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Recruiting Info.png
+c000000004C5D5DE2000000000000EF35
+t1281187298
+s61237
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Recruiting.png
+c000000004C57FD74000000000000105B
+t1280834932
+s4187
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/RibbonSelected.png
+c000000004C5C4F5B0000000000000B63
+t1281118043
+s2915
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Rifle.png
+c000000004C5A9DF40000000000001941
+t1281007092
+s6465
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/RifleTeam Info.png
+c000000004C5D5D44000000000000D962
+t1281187140
+s55650
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/RifleTeam.png
+c000000004C57FD690000000000000D83
+t1280834921
+s3459
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/RootViewController.xib
+c000000004C5655730000000000004455
+t1280726387
+s17493
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/SeaCruise Info.png
+c000000004C5D5E95000000000000E157
+t1281187477
+s57687
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/SeaCruise.png
+c000000004C57FD7D0000000000000F38
+t1280834941
+s3896
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/SecDef Info.png
+c000000004C5D39B7000000000001BBDC
+t1281178039
+s113628
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/SecNavy Info.png
+c000000004C5D3AD90000000000019392
+t1281178329
+s103314
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/SecState Info.png
+c000000004C5D365C000000000001A62F
+t1281177180
+s108079
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/SergeantMajor Info.png
+c000000004C5D4693000000000001E8A2
+t1281181331
+s125090
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Thing.png
+c000000004C63CA8C0000000000002961
+t1281608332
+s10593
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/TypesOfCommands Info.png
+c000000004C5FEFF2000000000000C465
+t1281355762
+s50277
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/UniformComposition Info.png
+c000000004D0552760000000000032E00
+t1292194422
+s208384
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/UnitService Info.png
+c000000004C5D5BE6000000000000EF15
+t1281186790
+s61205
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/UnitService.png
+c000000004C57FD2E000000000000106B
+t1280834862
+s4203
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/VicePres Info.png
+c000000004C5D2D2D000000000001AD99
+t1281174829
+s109977
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Release-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC App.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Release-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppAppDelegate.o
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Release-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppViewController.o
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Release-iphonesimulator/NJROTC App.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app.dSYM
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/AcademicAward Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/AcademicAward.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Aptitude Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Aptitude.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/AwardsAndDecorations Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Back Button.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Background.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/CNO Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/CadetAchievement Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/CadetAchievement.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Chairman Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/ColorGuard Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/ColorGuard.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Commandant Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/CommunityService Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/CommunityService.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Credits.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Default.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/DevicePlacement Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Director Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/DistinguishedCadet Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/DistinguishedCadet.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/DistinguishedUnit Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/DistinguishedUnit.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Drill Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/DrillTeam Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/DrillTeam.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/ExemplaryConduct Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/ExemplaryConduct.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/ExemplaryPersonalAppereance Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/ExemplaryPersonalAppereance.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/FemaleGrooming Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Forward Button.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/GeneralOrders Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/HonorCadet Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/HonorCadet.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/ImportantDates Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Info.plist
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/MCPON Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Main.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/MainWindow.nib
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/MaleGrooming Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/MarineCorpsRanks Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/MarineCorpsRates Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/MeritoriousAchievement Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/MeritoriousAchievement.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/MiniBootCamp Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/MiniBootCamp.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/MiscKnowledge Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NETC Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NJROTC App
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NJROTCRanks Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NJROTCRates Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NJROTC_AppViewController.nib
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NSTC Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NavalScienceIIIOutstandingCadet Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NavalScienceIIIOutstandingCadet.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NavalScienceIIOutstandingCadet Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NavalScienceIIOutstandingCadet.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NavalScienceIOutstandingCadet Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NavalScienceIOutstandingCadet.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NavalScienceIVOutstandingCadet Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NavalScienceIVOutstandingCadet.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NavyRanks Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NavyRates Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NavyTerminology Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Orienteering Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Orienteering.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Participation Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Participation.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/PhoneticAlphabet Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/PhysicalFitness Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/PhysicalFitness.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/PkgInfo
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/President Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Recruiting Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Recruiting.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/RibbonSelected.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Rifle.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/RifleTeam Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/RifleTeam.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/RootViewController.nib
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/SeaCruise Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/SeaCruise.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/SecDef Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/SecNavy Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/SecState Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/SergeantMajor Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Thing.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/TypesOfCommands Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/UniformComposition Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/UnitService Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/UnitService.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/VicePres Info.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/button.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/loading.png
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/button.png
+c000000004C5BE0CE0000000000000E46
+t1281089742
+s3654
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/loading.png
+c000000004C5A9DE9000000000000269C
+t1281007081
+s9884
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/main.m
+c000000004C5657F0000000000000016F
+t1280727024
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-eilbjqnpodfjgqfnsohakmjxgtaf/NJROTC_App_Prefix.pch.gch
+t2
+s0
+
+NNJROTC_App-Info.plist
+c000000004C63D42E0000000000000395
+t1281610798
+s917
+
+CCompileC "build/NJROTC App.build/Release-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppAppDelegate.o" "/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NJROTC App.build/Release-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppViewController.o" "/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/NJROTC App.build/Release-iphonesimulator/NJROTC App.build/Objects-normal/i386/main.o" "/Users/alexdr/Programming/IPhone/NJROTC App/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_AppViewController.xib"
+r0
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/RootViewController.xib"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/AcademicAward Info.png" "AcademicAward Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/AcademicAward.png" AcademicAward.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Aptitude Info.png" "Aptitude Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Aptitude.png" Aptitude.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/AwardsAndDecorations Info.png" "AwardsAndDecorations Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Back Button.png" "Back Button.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Background.png" Background.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/CNO Info.png" "CNO Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/CadetAchievement Info.png" "CadetAchievement Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/CadetAchievement.png" CadetAchievement.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Chairman Info.png" "Chairman Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/ColorGuard Info.png" "ColorGuard Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/ColorGuard.png" ColorGuard.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Commandant Info.png" "Commandant Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/CommunityService Info.png" "CommunityService Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/CommunityService.png" CommunityService.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Credits.png" Credits.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Default.png" Default.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/DevicePlacement Info.png" "DevicePlacement Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Director Info.png" "Director Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/DistinguishedCadet Info.png" "DistinguishedCadet Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/DistinguishedCadet.png" DistinguishedCadet.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/DistinguishedUnit Info.png" "DistinguishedUnit Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/DistinguishedUnit.png" DistinguishedUnit.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Drill Info.png" "Drill Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/DrillTeam Info.png" "DrillTeam Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/DrillTeam.png" DrillTeam.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/ExemplaryConduct Info.png" "ExemplaryConduct Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/ExemplaryConduct.png" ExemplaryConduct.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/ExemplaryPersonalAppereance Info.png" "ExemplaryPersonalAppereance Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/ExemplaryPersonalAppereance.png" ExemplaryPersonalAppereance.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/FemaleGrooming Info.png" "FemaleGrooming Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Forward Button.png" "Forward Button.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/GeneralOrders Info.png" "GeneralOrders Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/HonorCadet Info.png" "HonorCadet Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/HonorCadet.png" HonorCadet.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/ImportantDates Info.png" "ImportantDates Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/MCPON Info.png" "MCPON Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Main.png" Main.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/MaleGrooming Info.png" "MaleGrooming Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/MarineCorpsRanks Info.png" "MarineCorpsRanks Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/MarineCorpsRates Info.png" "MarineCorpsRates Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/MeritoriousAchievement Info.png" "MeritoriousAchievement Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/MeritoriousAchievement.png" MeritoriousAchievement.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/MiniBootCamp Info.png" "MiniBootCamp Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/MiniBootCamp.png" MiniBootCamp.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/MiscKnowledge Info.png" "MiscKnowledge Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NETC Info.png" "NETC Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NJROTCRanks Info.png" "NJROTCRanks Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NJROTCRates Info.png" "NJROTCRates Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NSTC Info.png" "NSTC Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NavalScienceIIIOutstandingCadet Info.png" "NavalScienceIIIOutstandingCadet Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NavalScienceIIIOutstandingCadet.png" NavalScienceIIIOutstandingCadet.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NavalScienceIIOutstandingCadet Info.png" "NavalScienceIIOutstandingCadet Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NavalScienceIIOutstandingCadet.png" NavalScienceIIOutstandingCadet.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NavalScienceIOutstandingCadet Info.png" "NavalScienceIOutstandingCadet Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NavalScienceIOutstandingCadet.png" NavalScienceIOutstandingCadet.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NavalScienceIVOutstandingCadet Info.png" "NavalScienceIVOutstandingCadet Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NavalScienceIVOutstandingCadet.png" NavalScienceIVOutstandingCadet.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NavyRanks Info.png" "NavyRanks Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NavyRates Info.png" "NavyRates Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/NavyTerminology Info.png" "NavyTerminology Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Orienteering Info.png" "Orienteering Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Orienteering.png" Orienteering.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Participation Info.png" "Participation Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Participation.png" Participation.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/PhoneticAlphabet Info.png" "PhoneticAlphabet Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/PhysicalFitness Info.png" "PhysicalFitness Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/PhysicalFitness.png" PhysicalFitness.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/President Info.png" "President Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Recruiting Info.png" "Recruiting Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Recruiting.png" Recruiting.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/RibbonSelected.png" RibbonSelected.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Rifle.png" Rifle.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/RifleTeam Info.png" "RifleTeam Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/RifleTeam.png" RifleTeam.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/SeaCruise Info.png" "SeaCruise Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/SeaCruise.png" SeaCruise.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/SecDef Info.png" "SecDef Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/SecNavy Info.png" "SecNavy Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/SecState Info.png" "SecState Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/SergeantMajor Info.png" "SergeantMajor Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/Thing.png" Thing.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/TypesOfCommands Info.png" "TypesOfCommands Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/UniformComposition Info.png" "UniformComposition Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/UnitService Info.png" "UnitService Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/UnitService.png" UnitService.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/VicePres Info.png" "VicePres Info.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/button.png" button.png
+r0
+
+CCpResource "build/Release-iphonesimulator/NJROTC App.app/loading.png" loading.png
+r0
+
+CGenerateDSYMFile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app.dSYM" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NJROTC App"
+r0
+
+CLd "/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/NJROTC App" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app/Info.plist" NJROTC_App-Info.plist
+r0
+
+CProcessPCH /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-eilbjqnpodfjgqfnsohakmjxgtaf/NJROTC_App_Prefix.pch.gch NJROTC_App_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/alexdr/Programming/IPhone/NJROTC App/build/Release-iphonesimulator/NJROTC App.app"
+r0
+

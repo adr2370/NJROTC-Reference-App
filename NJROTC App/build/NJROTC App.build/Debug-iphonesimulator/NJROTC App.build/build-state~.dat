@@ -1,0 +1,416 @@
+TNJROTC App
+v7
+r0
+t302497433.823077
+cCheck dependencies
+cProcessInfoPlistFile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Info.plist" NJROTC_App-Info.plist
+cCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/MainWindow.xib"
+cCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_AppViewController.xib"
+cCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Inspection Knowledge.xib"
+cCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Chain of Command.xib"
+cCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Ribbons.xib"
+cCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Ranks.xib"
+cCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Uniform.xib"
+cCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Misc.xib"
+cCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Ribbon Bar Maker.xib"
+cCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Clickable Uniform.xib"
+cCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Credits.xib"
+cProcessPCH /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-cpbfduiopqbaqkcjnucntjkmyxhs/NJROTC_App_Prefix.pch.gch NJROTC_App_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/main.o" "/Users/alexdr/Programming/IPhone/NJROTC App/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppAppDelegate.o" "/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppViewController.o" "/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C562D880000000000000132
+t1280716168
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Chain of Command.xib
+c000000004C57827E00000000000038D1
+t1280803454
+s14545
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.h
+c000000004C5657F000000000000001F4
+t1280727024
+s500
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m
+c000000004C5657F00000000000000A9D
+t1280727024
+s2717
+i"NJROTC_AppAppDelegate.h"
+i"NJROTC_AppViewController.h"
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.h
+c000000004C5786FF0000000000000293
+t1280804607
+s659
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m
+c000000004C5786FF00000000000008BF
+t1280804607
+s2239
+i"NJROTC_AppViewController.h"
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Clickable Uniform.xib
+c000000004C5784310000000000001643
+t1280803889
+s5699
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Credits.xib
+c000000004C5784360000000000001643
+t1280803894
+s5699
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Inspection Knowledge.xib
+c000000004C5780F6000000000000402E
+t1280803062
+s16430
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/MainWindow.xib
+c000000004C5657F00000000000004E4D
+t1280727024
+s20045
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Misc.xib
+c000000004C5783FF0000000000001643
+t1280803839
+s5699
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_AppViewController.xib
+c000000004C577C7200000000000063EF
+t1280801906
+s25583
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_App_Prefix.pch
+c000000004C5657F000000000000000BD
+t1280727024
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Ranks.xib
+c000000004C5783E90000000000001643
+t1280803817
+s5699
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Ribbon Bar Maker.xib
+c000000004C57840C0000000000001643
+t1280803852
+s5699
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Ribbons.xib
+c000000004C5782970000000000001643
+t1280803479
+s5699
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/Uniform.xib
+c000000004C5783F80000000000001643
+t1280803832
+s5699
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app.dSYM
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Chain of Command.nib
+t1280804622
+s1218
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Clickable Uniform.nib
+t1280804626
+s663
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Credits.nib
+t1280804626
+s663
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Info.plist
+t1280804608
+s603
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Inspection Knowledge.nib
+t1280804619
+s1993
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/MainWindow.nib
+t1280804615
+s1129
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Misc.nib
+t1280804625
+s663
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/NJROTC App
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/NJROTC_AppViewController.nib
+t1280804615
+s2090
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/PkgInfo
+t1280804608
+s8
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Ranks.nib
+t1280804624
+s663
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Ribbon Bar Maker.nib
+t1280804625
+s663
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Ribbons.nib
+t1280804622
+s663
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Uniform.nib
+t1280804624
+s663
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC App.LinkFileList
+c000000004C5786FF00000000000001B4
+t1280804607
+s436
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppAppDelegate.o
+t1280804633
+s48044
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppViewController.o
+t2
+s0
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/main.o
+t1280804633
+s6312
+
+N/Users/alexdr/Programming/IPhone/NJROTC App/main.m
+c000000004C5657F0000000000000016F
+t1280727024
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-cpbfduiopqbaqkcjnucntjkmyxhs/NJROTC_App_Prefix.pch.gch
+t1280804633
+s15232016
+
+NNJROTC_App-Info.plist
+c000000004C5657F0000000000000038D
+t1280727024
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302497407#302497407#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC "build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppAppDelegate.o" "/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302497433.657439
+e302497433.750632
+r1
+xCompileC
+xbuild/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppAppDelegate.o
+x/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m302497433#302497433#0(0"0(0#0#75"/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m8616016416#2080"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-generated-files.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-own-target-headers.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-all-target-headers.hmap" -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-project-headers.hmap" "-F/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/include" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/DerivedSources/i386" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/DerivedSources" -include /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-cpbfduiopqbaqkcjnucntjkmyxhs/NJROTC_App_Prefix.pch -c "/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppAppDelegate.m" -o "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppAppDelegate.o"0#
+
+CCompileC "build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppViewController.o" "/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302497433.750756
+e302497433.822676
+r0
+xCompileC
+xbuild/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppViewController.o
+x/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m: In function '-[NJROTC_AppViewController touchesBegan:withEvent:]':
+o/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m:67: error: 'didReceiveMemoryWarning' undeclared (first use in this function)
+o/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m:67: error: (Each undeclared identifier is reported only once
+o/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m:67: error: for each function it appears in.)
+o/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m:67: error: expected ';' before '{' token
+o/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m:84: error: expected declaration or statement at end of input
+o/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m: At top level:
+o/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m:84: warning: '@end' missing in implementation context
+lSLF07#2@86"Compile /Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m302497433#302497433#0(1054"/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m: In function '-[NJROTC_AppViewController touchesBegan:withEvent:]':/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m:67: error: 'didReceiveMemoryWarning' undeclared (first use in this function)/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m:67: error: (Each undeclared identifier is reported only once/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m:67: error: for each function it appears in.)/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m:67: error: expected ';' before '{' token/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m:84: error: expected declaration or statement at end of input/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m: At top level:/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m:84: warning: '@end' missing in implementation context5(4@65"'didReceiveMemoryWarning' undeclared (first use in this function)302497433#147#156#0(6@78"/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m302497407#67#0#67#0#43"'*' undeclared (first use in this function)0(4@29"Expected ';' before '{' token302497433#567#120#0(6@78"/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m302497407#67#0#67#0#19"expected * before *0(4@49"Expected declaration or statement at end of input302497433#687#140#0(6@78"/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m302497407#84#0#84#0#49"expected declaration or statement at end of input0(23@13"At top level:302497433#827#94#0(6@78"/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m302497407#0#0#0#0#0"0(22@40"'@end' missing in implementation context302497433#921#133#0(6@78"/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m302497407#84#0#84#0#40"'@end' missing in implementation context0(0#0#78"/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m8615682688#2086"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-generated-files.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-own-target-headers.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-all-target-headers.hmap" -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-project-headers.hmap" "-F/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/include" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/DerivedSources/i386" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/DerivedSources" -include /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-cpbfduiopqbaqkcjnucntjkmyxhs/NJROTC_App_Prefix.pch -c "/Users/alexdr/Programming/IPhone/NJROTC App/Classes/NJROTC_AppViewController.m" -o "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/NJROTC_AppViewController.o"1#
+
+CCompileC "build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/main.o" "/Users/alexdr/Programming/IPhone/NJROTC App/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302497433.433903
+e302497433.657324
+r1
+xCompileC
+xbuild/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/main.o
+x/Users/alexdr/Programming/IPhone/NJROTC App/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/alexdr/Programming/IPhone/NJROTC App/main.m302497433#302497433#0(0"0(0#0#50"/Users/alexdr/Programming/IPhone/NJROTC App/main.m8615679040#2038"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-generated-files.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-own-target-headers.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-all-target-headers.hmap" -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-project-headers.hmap" "-F/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/include" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/DerivedSources/i386" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/DerivedSources" -include /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-cpbfduiopqbaqkcjnucntjkmyxhs/NJROTC_App_Prefix.pch -c "/Users/alexdr/Programming/IPhone/NJROTC App/main.m" -o "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Chain of Command.xib"
+s302497416.020155
+e302497423.102449
+r1
+xCompileXIB
+x/Users/alexdr/Programming/IPhone/NJROTC App/Chain of Command.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@33"CompileXIB "Chain of Command.xib"302497416#302497423#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#64"/Users/alexdr/Programming/IPhone/NJROTC App/Chain of Command.xib8616009152#606"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Chain of Command.nib" "/Users/alexdr/Programming/IPhone/NJROTC App/Chain of Command.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Clickable Uniform.xib"
+s302497425.771662
+e302497426.264545
+r1
+xCompileXIB
+x/Users/alexdr/Programming/IPhone/NJROTC App/Clickable Uniform.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@34"CompileXIB "Clickable Uniform.xib"302497425#302497426#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#65"/Users/alexdr/Programming/IPhone/NJROTC App/Clickable Uniform.xib8615976032#608"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Clickable Uniform.nib" "/Users/alexdr/Programming/IPhone/NJROTC App/Clickable Uniform.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Credits.xib"
+s302497426.264649
+e302497426.804823
+r1
+xCompileXIB
+x/Users/alexdr/Programming/IPhone/NJROTC App/Credits.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@22"CompileXIB Credits.xib302497426#302497426#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#55"/Users/alexdr/Programming/IPhone/NJROTC App/Credits.xib8614611328#588"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Credits.nib" "/Users/alexdr/Programming/IPhone/NJROTC App/Credits.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Inspection Knowledge.xib"
+s302497415.805282
+e302497419.935793
+r1
+xCompileXIB
+x/Users/alexdr/Programming/IPhone/NJROTC App/Inspection Knowledge.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@37"CompileXIB "Inspection Knowledge.xib"302497415#302497419#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#68"/Users/alexdr/Programming/IPhone/NJROTC App/Inspection Knowledge.xib8615569760#614"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Inspection Knowledge.nib" "/Users/alexdr/Programming/IPhone/NJROTC App/Inspection Knowledge.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/MainWindow.xib"
+s302497408.499779
+e302497415.805049
+r1
+xCompileXIB
+x/Users/alexdr/Programming/IPhone/NJROTC App/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib302497408#302497415#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#58"/Users/alexdr/Programming/IPhone/NJROTC App/MainWindow.xib8616222816#594"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/MainWindow.nib" "/Users/alexdr/Programming/IPhone/NJROTC App/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Misc.xib"
+s302497424.784191
+e302497425.278129
+r1
+xCompileXIB
+x/Users/alexdr/Programming/IPhone/NJROTC App/Misc.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@19"CompileXIB Misc.xib302497424#302497425#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#52"/Users/alexdr/Programming/IPhone/NJROTC App/Misc.xib8615568256#582"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Misc.nib" "/Users/alexdr/Programming/IPhone/NJROTC App/Misc.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_AppViewController.xib"
+s302497408.529120
+e302497416.020041
+r1
+xCompileXIB
+x/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_AppViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@39"CompileXIB NJROTC_AppViewController.xib302497408#302497416#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#72"/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_AppViewController.xib8616001824#622"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/NJROTC_AppViewController.nib" "/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_AppViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Ranks.xib"
+s302497423.102566
+e302497424.216689
+r1
+xCompileXIB
+x/Users/alexdr/Programming/IPhone/NJROTC App/Ranks.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@20"CompileXIB Ranks.xib302497423#302497424#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#53"/Users/alexdr/Programming/IPhone/NJROTC App/Ranks.xib8616208800#584"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Ranks.nib" "/Users/alexdr/Programming/IPhone/NJROTC App/Ranks.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Ribbon Bar Maker.xib"
+s302497425.278252
+e302497425.771451
+r1
+xCompileXIB
+x/Users/alexdr/Programming/IPhone/NJROTC App/Ribbon Bar Maker.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@33"CompileXIB "Ribbon Bar Maker.xib"302497425#302497425#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#64"/Users/alexdr/Programming/IPhone/NJROTC App/Ribbon Bar Maker.xib8616064576#606"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Ribbon Bar Maker.nib" "/Users/alexdr/Programming/IPhone/NJROTC App/Ribbon Bar Maker.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Ribbons.xib"
+s302497419.936004
+e302497422.699517
+r1
+xCompileXIB
+x/Users/alexdr/Programming/IPhone/NJROTC App/Ribbons.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@22"CompileXIB Ribbons.xib302497419#302497422#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#55"/Users/alexdr/Programming/IPhone/NJROTC App/Ribbons.xib8616024416#588"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Ribbons.nib" "/Users/alexdr/Programming/IPhone/NJROTC App/Ribbons.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/alexdr/Programming/IPhone/NJROTC App/Uniform.xib"
+s302497424.216860
+e302497424.784085
+r1
+xCompileXIB
+x/Users/alexdr/Programming/IPhone/NJROTC App/Uniform.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@22"CompileXIB Uniform.xib302497424#302497424#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#55"/Users/alexdr/Programming/IPhone/NJROTC App/Uniform.xib8614992448#588"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Uniform.nib" "/Users/alexdr/Programming/IPhone/NJROTC App/Uniform.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app.dSYM" "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/NJROTC App"
+r0
+
+CLd "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/NJROTC App" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Info.plist" NJROTC_App-Info.plist
+s302497407.753293
+e302497408.499451
+r1
+xProcessInfoPlistFile
+x/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Info.plist
+xNJROTC_App-Info.plist
+lSLF07#2@29"Process NJROTC_App-Info.plist302497407#302497408#0(0"0(0#0#65"/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_App-Info.plist7236274654156910592#509"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NJROTC_App-Info.plist -genpkginfo "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app/Info.plist"0#
+
+CProcessPCH /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-cpbfduiopqbaqkcjnucntjkmyxhs/NJROTC_App_Prefix.pch.gch NJROTC_App_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302497426.817381
+e302497433.433674
+r1
+xProcessPCH
+x/var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-cpbfduiopqbaqkcjnucntjkmyxhs/NJROTC_App_Prefix.pch.gch
+xNJROTC_App_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile NJROTC_App_Prefix.pch302497426#302497433#0(0"0(0#0#65"/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_App_Prefix.pch8615821088#1920"    cd "/Users/alexdr/Programming/IPhone/NJROTC App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-generated-files.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-own-target-headers.hmap" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-all-target-headers.hmap" -iquote "/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/NJROTC App-project-headers.hmap" "-F/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/include" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/DerivedSources/i386" "-I/Users/alexdr/Programming/IPhone/NJROTC App/build/NJROTC App.build/Debug-iphonesimulator/NJROTC App.build/DerivedSources" -c "/Users/alexdr/Programming/IPhone/NJROTC App/NJROTC_App_Prefix.pch" -o /var/folders/NM/NMHDNzHiFLiQxrEXEEVmLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NJROTC_App_Prefix-cpbfduiopqbaqkcjnucntjkmyxhs/NJROTC_App_Prefix.pch.gch0#
+
+CTouch "/Users/alexdr/Programming/IPhone/NJROTC App/build/Debug-iphonesimulator/NJROTC App.app"
+r0
+
